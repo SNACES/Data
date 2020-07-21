@@ -1,0 +1,25 @@
+Core Users: ['Aaroth', 'AmirRosenfeld', 'Miles_Brundage', 'benzevgreen', 'haldaume3', 'hardmaru', 'jackclarkSF', 'katecrawford', 'mark_riedl', 'mmitchell_ai', 'natematias', 'packer_ben', 'rajiinio', 'supergovernance', 'zittrain']
+Core Items: ['ai', 'algorithm', 'analog', 'assess', 'autonom', 'bandit', 'broader', 'dataset', 'eg', 'faculti', 'malici', 'metric', 'misus', 'neuron', 'output', 'scrape', 'selfdriv', 'sexism', 'stakehold', 'tenur']
+Most Typical Words: ['algorithm', 'autonom', 'classif', 'dataset', 'latent', 'metric', 'output', 'rl', 'selfdriv', 'sexism']
+Duplicate Count: 187
+
+Core Users: ['JohnHolbein1', 'KLdivergence', 'ShalitUri', 'alexdamour', 'angelamczhou', 'david_sontag', 'edwardhkennedy', 'fhuszar', 'haldaume3', 'hardmaru', 'harvard_data', 'logangraham', 'maria__cuellar', 'mark_riedl', 'maya_sen', 'natematias', 'packer_ben', 'rajiinio', 'tdietterich']
+Core Items: ['assess', 'causal', 'character', 'confound', 'dataset', 'detector', 'faculti', 'hypothesi', 'identif', 'increment', 'intervent', 'latent', 'metric', 'ml', 'oxford', 'pointer', 'scrape', 'selfdriv', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'confound', 'dataset', 'identif', 'intervent', 'latent', 'ml', 'rl', 'tenur']
+Duplicate Count: 51
+
+Core Users: ['Aaroth', 'CausalKathy', 'JFutoma', 'JohnHolbein1', 'Smerity', 'adversariel', 'alexstamos', 'david_sontag', 'haldaume3', 'mark_riedl', 'mmitchell_ai', 'natematias', 'nathanjurgenson', 'packer_ben', 'rajiinio', 'rctatman', 'sarahcolq', 'yoavgo', 'zacharylipton', 'zeynep']
+Core Items: ['amplifi', 'api', 'broader', 'character', 'confound', 'dataset', 'discours', 'faculti', 'gmail', 'logist', 'metric', 'misus', 'ml', 'scrape', 'selfdriv', 'sexism', 'sociolog', 'tenur']
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'embed', 'metric', 'mit', 'ml', 'rl', 'sexism', 'tenur']
+Duplicate Count: 34
+
+Core Users: ['BrendaKLeong', 'EvanSelinger', 'FrankPasquale', 'annakoop', 'david_sontag', 'haldaume3', 'halhod', 'hima_lakkaraju', 'irenetrampoline', 'j2bryson', 'jennwvaughan', 'natematias', 'nathanjurgenson', 'roydanroy', 'zeynep']
+Core Items: ['bandit', 'biometr', 'broader', 'clickbait', 'discours', 'faculti', 'gmail', 'hah', 'intersect', 'mit', 'ml', 'nich', 'skeptic', 'sociolog', 'subset', 'surveil', 'tenur']
+Most Typical Words: ['algorithm', 'debug', 'faculti', 'github', 'intersect', 'keynot', 'mit', 'ml', 'rl', 'tenur']
+Duplicate Count: 7
+
+Core Users: ['AlecMacGillis', 'BrendaKLeong', 'BrendanNyhan', 'DaraKaye', 'FrankPasquale', 'JohnHolbein1', 'ModeledBehavior', 'OsitaNwanevu', 'Richard_Florida', 'Yair_Rosenberg', 'aselbst', 'ashleyfeinberg', 'bencasselman', 'bruce_arthur', 'causalinf', 'gelliottmorris', 'julia_azari', 'maya_sen', 'realnamepolicy']
+Core Items: ['backlash', 'bret', 'broader', 'discours', 'economist', 'fulltim', 'hog', 'irrespons', 'median', 'overst', 'partisan', 'pivot', 'promin', 'substant', 'tenur', 'tfw', 'vancouv', 'volatil']
+Most Typical Words: ['algorithm', 'causal', 'discours', 'garfield', 'hog', 'median', 'overst', 'partisan', 'tenur', 'yougov']
+Duplicate Count: 1
+

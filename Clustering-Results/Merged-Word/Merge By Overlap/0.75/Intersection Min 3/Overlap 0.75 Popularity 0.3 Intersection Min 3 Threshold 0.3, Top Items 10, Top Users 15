@@ -1,0 +1,20 @@
+Core Users: ['Aaroth', 'NicolasPapernot', 'SoloGen', 'blancamiller_', 'david_sontag', 'fhuszar', 'geomblog', 'haldaume3', 'jennwvaughan', 'mikekimbackward', 'natematias', 'roydanroy', 'tdietterich', 'thesasho', 'yisongyue']
+Core Items: ['algorithm', 'constraint', 'differenti', 'faculti', 'metric', 'ml', 'postdoc', 'subset', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'metric', 'ml', 'postdoc', 'quantum', 'rl', 'subset', 'tenur', 'variabl']
+Duplicate Count: 25
+
+Core Users: ['Aaroth', 'JohnHolbein1', 'ShalitUri', 'alexdamour', 'angelamczhou', 'blancamiller_', 'david_sontag', 'edwardhkennedy', 'fhuszar', 'geomblog', 'hardmaru', 'logangraham', 'maria__cuellar', 'natematias', 'packer_ben', 'suchisaria', 'tdietterich', 'yoavgo']
+Core Items: ['causal', 'confound', 'dataset', 'identif', 'intervent', 'latent', 'metric', 'ml', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'confound', 'dataset', 'identif', 'intervent', 'latent', 'ml', 'rl', 'variabl']
+Duplicate Count: 16
+
+Core Users: ['Aaroth', 'JFutoma', 'Smerity', 'adversariel', 'berty38', 'david_sontag', 'geomblog', 'haldaume3', 'hardmaru', 'jennwvaughan', 'katecrawford', 'maria__cuellar', 'mark_riedl', 'math_rachel', 'mmitchell_ai', 'natematias', 'packer_ben', 'rajiinio', 'roydanroy', 'tdietterich', 'yisongyue', 'yoavgo', 'zacharylipton']
+Core Items: ['algorithm', 'bandit', 'character', 'confound', 'dataset', 'faculti', 'increment', 'metric', 'ml', 'selfdriv', 'tenur']
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'keynot', 'metric', 'mit', 'ml', 'postdoc', 'rl', 'tenur']
+Duplicate Count: 9
+
+Core Users: ['Aaroth', 'BrendaKLeong', 'EvanSelinger', 'NicolasPapernot', 'SarahJamieLewis', 'TedOnPrivacy', 'WillOremus', 'elizabeth_joh', 'katecrawford', 'leah_boustan', 'math_rachel', 'mmitchell_ai', 'natematias', 'packer_ben', 'random_walker', 'thesasho']
+Core Items: ['algorithm', 'bandit', 'biometr', 'broader', 'browser', 'cryptograph', 'dataset', 'differenti', 'infosec', 'metric', 'princeton', 'privaci', 'recognit', 'sexism', 'surveil', 'tenur']
+Most Typical Words: ['algorithm', 'coauthor', 'dataset', 'differenti', 'keynot', 'metric', 'ml', 'privaci', 'sexism', 'surveil']
+Duplicate Count: 4
+

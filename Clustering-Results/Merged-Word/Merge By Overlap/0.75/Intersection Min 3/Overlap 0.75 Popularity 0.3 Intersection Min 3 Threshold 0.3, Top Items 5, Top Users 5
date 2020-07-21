@@ -1,0 +1,50 @@
+Core Users: ['ShalitUri', 'david_sontag', 'haldaume3', 'hima_lakkaraju', 'logangraham']
+Core Items: ['alg', 'causal', 'character', 'compon', 'confound', 'debug', 'eg', 'faculti', 'hah', 'inquir', 'intervent', 'juan', 'latent', 'metric', 'mit', 'ml', 'output', 'overst', 'pointer', 'stakehold', 'subset', 'unknow', 'workshop']
+Most Typical Words: ['algorithm', 'causal', 'confound', 'debug', 'faculti', 'intervent', 'latent', 'mit', 'ml', 'rl']
+Duplicate Count: 5
+
+Core Users: ['EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['aipac', 'isra', 'jew', 'jewish', 'netanyahu', 'zionism', 'zionist']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'neonazi', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 3
+
+Core Users: ['AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou']
+Core Items: ['gianni', 'jv', 'kyle', 'raptor', 'serg']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 3
+
+Core Users: ['BrendaKLeong', 'EvanSelinger', 'SarahJamieLewis', 'WillOremus', 'random_walker']
+Core Items: ['biometr', 'browser', 'cryptograph', 'infosec', 'privaci', 'surveil']
+Most Typical Words: ['algorithm', 'coauthor', 'consensus', 'cryptograph', 'decentr', 'frt', 'infosec', 'intervent', 'privaci', 'surveil']
+Duplicate Count: 3
+
+Core Users: ['Aaroth', 'NicolasPapernot', 'SolomonMg', 'TedOnPrivacy', 'mikarv']
+Core Items: ['aggreg', 'data', 'differenti', 'presum', 'privaci']
+Most Typical Words: ['algorithm', 'dataset', 'differenti', 'github', 'keynot', 'marta', 'metric', 'ml', 'privaci', 'semant']
+Duplicate Count: 2
+
+Core Users: ['3r1nG', 'Aaroth', 'BKCHarvard', 'JFutoma', 'MarzyehGhassemi', 'Miles_Brundage', 'Smerity', 'TedOnPrivacy', '_asubbaswamy', 'gokstudio', 'haldaume3', 'hardmaru', 'jackclarkSF', 'jennwvaughan', 'jessebett', 'juliagalef', 'kdphd', 'liannapisani', 'mbogen', 'moyix', 'orionbuske', 'packer_ben', 'rajiinio', 'randal_olson', 'rctatman', 'suchisaria', 'yoavgo']
+Core Items: ['cohort', 'dataset', 'eg', 'intersect', 'malici']
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'github', 'intersect', 'invari', 'keynot', 'latent', 'ml', 'rl']
+Duplicate Count: 1
+
+Core Users: ['KLdivergence', 'aselbst', 'benzevgreen', 'mbogen', 'wsisaac']
+Core Items: ['aggreg', 'algorithm', 'assess', 'burglari', 'cohort', 'correl', 'dispar', 'dissect', 'ethic', 'hah', 'hypothesi', 'interrog', 'intersect', 'jfc', 'juri', 'kissing', 'lookout', 'manchin', 'nevertheless', 'partisan', 'preval', 'selfdriv', 'tos', 'yale']
+Most Typical Words: ['algorithm', 'assess', 'causal', 'dispar', 'forthcom', 'intersect', 'intervent', 'keynot', 'selfdriv', 'surveil']
+Duplicate Count: 1
+
+Core Users: ['AmirRosenfeld', 'SussilloDavid', 'maya_sen', 'timhwang', 'tyrell_turing']
+Core Items: ['_ツ_', 'alg', 'altogeth', 'analog', 'binari', 'categor', 'cert', 'classif', 'copyright', 'correl', 'cough', 'deriv', 'earnest', 'environment', 'excerpt', 'faculti', 'forthcom', 'frequent', 'inquir', 'irrespons', 'kissing', 'linear', 'metaphor', 'misus', 'neuron', 'neurosci', 'nich', 'output', 'partisan', 'physicist', 'postdoc', 'preprint', 'rad', 'tenur', 'unifi', 'vacanc', 'volatil']
+Most Typical Words: ['algorithm', 'dataset', 'deriv', 'latent', 'neuron', 'neurosci', 'postdoc', 'preprint', 'semant', 'unifi']
+Duplicate Count: 1
+
+Core Users: ['OsitaNwanevu', 'alexstamos', 'grimmelm', 'timhwang', 'zittrain']
+Core Items: ['_ツ_', 'amplifi', 'analog', 'analytica', 'api', 'backlash', 'browser', 'cabl', 'cert', 'compress', 'confidenti', 'congest', 'consensus', 'copyright', 'cough', 'delaney', 'detector', 'discours', 'disinform', 'ecosystem', 'egregi', 'frequent', 'fulltim', 'gmail', 'hawley', 'herring', 'histrion', 'inquir', 'jamieson', 'kissing', 'malwar', 'nich', 'partisan', 'promin', 'rad', 'recipi', 'reconcili', 'rhetor', 'rsa', 'scrape', 'selfdriv', 'semant', 'stanford', 'straightforward', 'tos', 'unbound', 'unsettl', 'volatil', 'vpn']
+Most Typical Words: ['_ツ_', 'algorithm', 'analog', 'copyright', 'discours', 'intervent', 'nich', 'selfdriv', 'semant', 'tos']
+Duplicate Count: 1
+
+Core Users: ['CANADALAND', 'GraphicMatt', 'RonSoupprune', 'iamstripedhorse', 'jen_keesmaat', 'm_layton', 'wgrathwohl']
+Core Items: ['ontario', 'provinci', 'streetcar', 'transit', 'ttc']
+Most Typical Words: ['allosexuel', 'bay', 'councillor', 'framework', 'grindin', 'jeopardi', 'ontario', 'provinci', 'streetcar', 'ttc']
+Duplicate Count: 1
+

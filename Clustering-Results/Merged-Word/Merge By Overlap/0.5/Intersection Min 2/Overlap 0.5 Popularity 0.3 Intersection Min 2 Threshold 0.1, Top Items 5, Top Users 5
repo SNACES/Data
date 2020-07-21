@@ -1,0 +1,30 @@
+Core Users: ['berty38', 'fhuszar', 'hima_lakkaraju', 'irenetrampoline', 'julius_adebayo', 'leeclemnet', 'zacharylipton']
+Core Items: ['admiss', 'clarif', 'debug', 'exponenti', 'fraction', 'ml', 'nip', 'prof', 'supervis']
+Most Typical Words: ['algorithm', 'dataset', 'debug', 'img', 'lissaj', 'mit', 'ml', 'sampw', 'undergrad', 'woahw']
+Duplicate Count: 157
+
+Core Users: ['EvanSelinger', 'SarahJamieLewis', 'WillOremus', 'elizabeth_joh', 'random_walker']
+Core Items: ['analytica', 'cryptograph', 'decentr', 'hypothet', 'infosec', 'privaci', 'recognit', 'redact', 'surveil']
+Most Typical Words: ['algorithm', 'coauthor', 'consensus', 'cough', 'cryptograph', 'decentr', 'frt', 'infosec', 'privaci', 'surveil']
+Duplicate Count: 17
+
+Core Users: ['ShalitUri', 'StatModeling', 'alexdamour', 'edwardhkennedy', 'johnmyleswhite']
+Core Items: ['assumpt', 'causal', 'confound', 'regress', 'statist']
+Most Typical Words: ['assumpt', 'bw', 'causal', 'confound', 'identif', 'intervent', 'latent', 'postdoc', 'regress', 'variabl']
+Duplicate Count: 11
+
+Core Users: ['1vnzh', 'GretchenAMcC', 'JFutoma', 'MarzyehGhassemi', 'Miles_Brundage', 'SingularMattrix', 'Smerity', '_asubbaswamy', 'aerinykim', 'alex_y_gao', 'gokstudio', 'jackclarkSF', 'melosare', 'moyix', 'mtesfald', 'octonion', 'packer_ben', 'randal_olson', 'rctatman']
+Core Items: ['dataset', 'github', 'linguist', 'python', 'societ']
+Most Typical Words: ['5hr', 'algorithm', 'dataset', 'github', 'halfmarathon', 'invari', 'ml', 'negativeslop', 'ucalgari', 'waterresist']
+Duplicate Count: 10
+
+Core Users: ['EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['aipac', 'antisemit', 'gaza', 'isra', 'israel', 'jew', 'jewish', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'neonazi', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 9
+
+Core Users: ['dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou', 'wtevs']
+Core Items: ['danni', 'foul', 'fred', 'jv', 'kyle', 'raptor', 'serg']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 4
+

@@ -1,0 +1,10 @@
+Core Users: ['JFutoma', 'ShalitUri', 'SmithaMilli', 'angelamczhou', 'blancamiller_', 'catherineols', 'david_sontag', 'fhuszar', 'irenetrampoline', 'logangraham', 'riakall', 'zacharylipton', 'NicolasPapernot', 'SarahJamieLewis', 'SolomonMg', 'adversariel', 'random_walker', 'wsisaac', 'jennwvaughan', 'jessebett', 'rajiinio', 'zittrain', 'megberetta', 'umangsbhatt', 'AINowInstitute', 'A_Aspuru_Guzik', 'GaryMarchant1', 'JohnHolbein1', 'LorenRaeDeJ', 'MarzyehGhassemi', 'SingularMattrix', 'StatModeling', 'SussilloDavid', 'YBenkler', 'benzevgreen', 'berty38', 'cobyviner', 'geomblog', 'gokstudio', 'grimmelm', 'haldaume3', 'hannawallach', 'hima_lakkaraju', 'j2bryson', 'julia_azari', 'kswersk', 'leeclemnet', 'linamkhan', 'maria__cuellar', 'mark_riedl', 'maya_sen', 'natematias', 'poverty_action', 'roydanroy', 'EvanSelinger', 'elizabeth_joh', 'halhod', 'karen_ec_levy', 'FrankPasquale', 'TrooperSanders', 'beenwrekt', 'jasonmillar', 'katecrawford']
+Core Items: ['causal', 'intervent', 'mit', 'ml', 'variabl', 'adversari', 'cryptograph', 'infosec', 'privaci', 'surveil', 'analog', 'character', 'intersect', 'misus', 'grandfath', 'stakehold', 'postdoc', 'selfdriv', 'tenur', 'pointer', 'preprint', 'forthcom', 'autonom']
+Most Typical Words: ['algorithm', 'approxim', 'causal', 'codingml', 'cui', 'intervent', 'latent', 'mit', 'ml', 'rl', 'easytounderstand', 'variabl', 'intersect', 'keynot', 'aiover', 'folksqueer', 'pgms', 'dataset', 'debug', 'forthcom', 'postdoc', 'tenur', 'copyright', 'preprint', 'quantum', 'regress', 'selfdriv', 'surveil', 'isca', 'ranganathan', 'autonom']
+Duplicate Count: 18
+
+Core Users: ['AINowInstitute', 'A_Aspuru_Guzik', 'Miles_Brundage', 'SingularMattrix', 'StatModeling', 'SussilloDavid', 'adversariel', 'benzevgreen', 'geomblog', 'grimmelm', 'j2bryson', 'mark_riedl', 'math_rachel', 'mikekimbackward', 'nathanjurgenson', 'thesasho', 'zittrain']
+Core Items: ['analog', 'metric', 'postdoc', 'preprint', 'selfdriv', 'stylegan']
+Most Typical Words: ['algorithm', 'dataset', 'embed', 'github', 'metric', 'postdoc', 'quantum', 'regress', 'selfdriv', 'variabl']
+Duplicate Count: 1
+

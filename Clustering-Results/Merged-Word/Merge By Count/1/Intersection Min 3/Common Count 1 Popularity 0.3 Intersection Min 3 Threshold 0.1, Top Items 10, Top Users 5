@@ -1,0 +1,10 @@
+Core Users: ['adversariel', 'berty38', 'gokstudio', 'roydanroy', 'zacharylipton']
+Core Items: ['__', 'abbrevi', 'acquisit', 'admiss', 'adversari', 'albeit', 'alphabet', 'altogeth', 'atom', 'binari', 'bound', 'bw', 'cab', 'cach', 'categor', 'cf', 'character', 'coauthor', 'compress', 'conceptu', 'confound', 'cpu', 'discours', 'distribut', 'eager', 'exponenti', 'faculti', 'fellowship', 'fraction', 'fuzz', 'gabriel', 'git', 'github', 'gpu', 'graph', 'hacker', 'herring', 'impost', 'infosec', 'kera', 'linear', 'linux', 'logist', 'lotteri', 'malwar', 'mathemat', 'mathematician', 'maxim', 'misplac', 'ml', 'moreov', 'nevertheless', 'nip', 'noisi', 'notat', 'obfusc', 'overst', 'phd', 'preprint', 'primit', 'pytorch', 'recipi', 'replic', 'retroact', 'robust', 'roi', 'semant', 'subsequ', 'subset', 'suffic', 'supervis', 'tutor', 'unbound', 'undergrad', 'vacuum', 'vector', 'voicemail', 'writeup']
+Most Typical Words: ['algorithm', 'benchmark', 'cpu', 'dataset', 'embed', 'github', 'ml', 'nevertheless', 'preprint', 'undergrad']
+Duplicate Count: 15
+
+Core Users: ['EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['aipac', 'antisemit', 'gaza', 'hebrew', 'isra', 'israel', 'jew', 'jewish', 'netanyahu', 'shabbat', 'zionism']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'neonazi', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 10
+

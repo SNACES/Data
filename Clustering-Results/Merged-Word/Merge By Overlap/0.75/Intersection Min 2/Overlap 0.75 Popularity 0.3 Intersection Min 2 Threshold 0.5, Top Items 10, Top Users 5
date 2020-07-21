@@ -1,0 +1,20 @@
+Core Users: ['A_Aspuru_Guzik', 'KLdivergence', 'benzevgreen', 'thesasho', 'zittrain']
+Core Items: ['analog', 'assess', 'broader', 'detector', 'dispar', 'kissing', 'postdoc', 'preprint', 'selfdriv', 'variabl']
+Most Typical Words: ['algorithm', 'assess', 'dispar', 'embed', 'kissing', 'postdoc', 'preprint', 'quantum', 'selfdriv', 'variabl']
+Duplicate Count: 34
+
+Core Users: ['BrendaKLeong', 'Smerity', 'alexstamos', 'mikekimbackward', 'packer_ben', 'thesasho', 'zeynep']
+Core Items: ['algorithm', 'amplifi', 'biometr', 'broader', 'clickbait', 'kissing', 'metric', 'preprint', 'scrape', 'sexism', 'subset', 'variabl']
+Most Typical Words: ['abbrevi', 'algorithm', 'attribut', 'dataset', 'discriminatori', 'metric', 'parol', 'quantum', 'subset', 'variabl']
+Duplicate Count: 30
+
+Core Users: ['catherineols', 'irenetrampoline', 'jennwvaughan', 'rajiinio', 'zittrain']
+Core Items: ['analog', 'detector', 'intersect', 'keynot', 'kissing', 'mit', 'ml', 'oct', 'selfdriv', 'stakehold']
+Most Typical Words: ['algorithm', 'analog', 'eager', 'intersect', 'keynot', 'mit', 'ml', 'oct', 'selfdriv', 'subset']
+Duplicate Count: 6
+
+Core Users: ['EvanSelinger', 'GaryMarchant1', 'JohnHolbein1', 'julia_azari', 'maya_sen']
+Core Items: ['coauthor', 'forthcom', 'hah', 'median', 'partisan', 'skeptic', 'substant', 'subtweet', 'surveil', 'tenur']
+Most Typical Words: ['asu', 'coauthor', 'crossfertil', 'forthcom', 'gnlu', 'hah', 'intervent', 'karjala', 'lightduti', 'scienv']
+Duplicate Count: 3
+

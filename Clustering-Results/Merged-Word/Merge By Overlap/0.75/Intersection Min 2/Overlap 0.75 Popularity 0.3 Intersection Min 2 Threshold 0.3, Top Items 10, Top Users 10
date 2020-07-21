@@ -1,0 +1,40 @@
+Core Users: ['Aaroth', 'SoloGen', 'StatModeling', 'blancamiller_', 'david_sontag', 'geomblog', 'logangraham', 'maya_sen', 'mikekimbackward', 'natematias', 'tdietterich', 'thesasho', 'yisongyue']
+Core Items: ['causal', 'constraint', 'differenti', 'faculti', 'metric', 'ml', 'postdoc', 'subset', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'intervent', 'metric', 'ml', 'postdoc', 'quantum', 'rl', 'subset', 'variabl']
+Duplicate Count: 191
+
+Core Users: ['Aaroth', 'KLdivergence', 'benzevgreen', 'katecrawford', 'mark_riedl', 'math_rachel', 'mikekimbackward', 'packer_ben', 'rajiinio', 'supergovernance', 'thesasho']
+Core Items: ['ai', 'algorithm', 'assess', 'constraint', 'dataset', 'differenti', 'dispar', 'kissing', 'metric', 'selfdriv', 'variabl']
+Most Typical Words: ['abbrevi', 'algorithm', 'assess', 'dataset', 'dispar', 'keynot', 'metric', 'quantum', 'subset', 'variabl']
+Duplicate Count: 129
+
+Core Users: ['Aaroth', 'AmirRosenfeld', 'Miles_Brundage', 'SussilloDavid', 'hardmaru', 'katecrawford', 'logangraham', 'mark_riedl', 'thesasho', 'zittrain']
+Core Items: ['analog', 'autonom', 'constraint', 'dataset', 'differenti', 'herring', 'latent', 'metric', 'neuron', 'output', 'preprint', 'recipi', 'scrape', 'selfdriv']
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'dataset', 'embed', 'intervent', 'latent', 'metric', 'postdoc', 'selfdriv']
+Duplicate Count: 46
+
+Core Users: ['EvanSelinger', 'FrankPasquale', 'KLdivergence', 'WillOremus', 'halhod', 'math_rachel', 'nathanjurgenson', 'packer_ben', 'supergovernance', 'timhwang', 'wsisaac', 'yoavgo', 'zeynep']
+Core Items: ['amplifi', 'assess', 'ethic', 'gmail', 'logist', 'metric', 'nich', 'skeptic', 'surveil', 'volatil']
+Most Typical Words: ['algorithm', 'amplifi', 'causal', 'dataset', 'embed', 'keynot', 'metric', 'parol', 'skeptic', 'surveil']
+Duplicate Count: 35
+
+Core Users: ['JohnHolbein1', 'ShalitUri', 'alexdamour', 'angelamczhou', 'blancamiller_', 'david_sontag', 'edwardhkennedy', 'logangraham', 'maria__cuellar', 'natematias']
+Core Items: ['causal', 'compon', 'confound', 'detector', 'faculti', 'identif', 'intervent', 'latent', 'ml', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'confound', 'identif', 'intervent', 'latent', 'mit', 'ml', 'tenur', 'variabl']
+Duplicate Count: 34
+
+Core Users: ['AlecMacGillis', 'FrankPasquale', 'ModeledBehavior', 'MrDanielMax', 'Susan_Athey', 'Undercoverhist', 'alexstamos', 'avicgoldfarb', 'bencasselman', 'causalinf', 'gelliottmorris', 'iamstripedhorse', 'kongaloosh', 'leah_boustan', 'leilanigilpin', 'liannapisani', 'matthewstoller', 'natematias', 'poverty_action', 'random_walker', 'timoreilly', 'tw_killian', 'zacharylipton']
+Core Items: ['dudley', 'econ', 'economist', 'fulltim', 'neoliber', 'pharma', 'phd', 'princeton', 'stanford', 'volatil']
+Most Typical Words: ['algorithm', 'causal', 'crosscountri', 'econ', 'economist', 'mit', 'neoliber', 'phd', 'solomon', 'storyen']
+Duplicate Count: 13
+
+Core Users: ['AnnaJaneSmith4', 'NBA_Math', 'ZachLowe_NBA', 'bruce_arthur', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'skepticalsports', 'taltheturtle', 'william_lou', 'wtevs']
+Core Items: ['gianni', 'jv', 'kyle', 'okc', 'pascal', 'pelican', 'raptor', 'rebound', 'serg', 'steph']
+Most Typical Words: ['basketballcraz', 'gianni', 'hockey', 'mitzvad', 'nav', 'raptor', 'rebound', 'serg', 'superfan', 'tal']
+Duplicate Count: 7
+
+Core Users: ['Aaroth', 'ContraPoints', 'DoctorVive', 'FrankPasquale', 'JohnHolbein1', 'MrDanielMax', 'OsitaNwanevu', 'SeanMcElwee', 'SeanTrende', 'agstrait', 'aselbst', 'bruce_arthur', 'curaffairs', 'databoydg', 'ekoreen', 'gelliottmorris', 'geomblog', 'jennwvaughan', 'julia_azari', 'leah_boustan', 'maria__cuellar', 'matthewstoller', 'mattyglesias', 'maya_sen', 'natematias', 'nathanjurgenson', 'realnamepolicy', 'roydanroy']
+Core Items: ['backlash', 'delaney', 'discours', 'egregi', 'manchin', 'neoliber', 'partisan', 'promin', 'substant', 'tenur']
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'intervent', 'keynot', 'metric', 'ml', 'neoliber', 'partisan', 'tenur']
+Duplicate Count: 4
+

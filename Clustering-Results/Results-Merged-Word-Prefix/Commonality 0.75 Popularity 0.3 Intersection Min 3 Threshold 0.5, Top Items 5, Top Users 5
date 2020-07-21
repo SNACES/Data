@@ -1,0 +1,25 @@
+Core Users: ['catherineols', 'david_sontag', 'irenetrampoline', 'rajiinio', 'zacharylipton', 'NicolasPapernot', 'adversariel', 'beenwrekt']
+Core Items: ['analog', 'categor', 'character', 'detector', 'kissing', 'misus', 'mit', 'ml', 'moreov', 'stakehold', 'adversari', 'infosec', 'noisi', 'oct', 'preprint', 'privaci', 'semant', 'autonom', 'autonomi', 'russ']
+Most Typical Words: ['algorithm', 'causal', 'character', 'confound', 'github', 'mit', 'ml', 'oct', 'rl', 'subset', 'adversari', 'eager', 'keynot', 'marta', 'semant', 'autonom', 'chronolog']
+Duplicate Count: 14
+
+Core Users: ['ShalitUri', 'alexdamour', 'angelamczhou', 'edwardhkennedy', 'logangraham', 'YBenkler', 'causalinf', 'david_sontag', 'JohnHolbein1', 'geomblog', 'maria__cuellar']
+Core Items: ['bw', 'causal', 'cf', 'cis', 'confound', 'identif', 'intervent', 'latent', 'variabl', 'emphas', 'jamieson', 'mit', 'tenur']
+Most Typical Words: ['algorithm', 'bw', 'causal', 'confound', 'identif', 'intervent', 'latent', 'ml', 'regress', 'variabl', 'mit', 'detector', 'tenur']
+Duplicate Count: 4
+
+Core Users: ['AINowInstitute', 'A_Aspuru_Guzik', 'SussilloDavid', 'adversariel', 'geomblog']
+Core Items: ['adversari', 'deriv', 'infosec', 'jill', 'neurosci', 'noisi', 'oct', 'postdoc', 'preprint', 'tenur']
+Most Typical Words: ['algorithm', 'deriv', 'ml', 'neurosci', 'oct', 'postdoc', 'preprint', 'quantum', 'richardson', 'selfdriv']
+Duplicate Count: 1
+
+Core Users: ['angelamczhou', 'jennwvaughan', 'judywawira', 'mmitchell_ai', 'natematias']
+Core Items: ['bandit', 'biometr', 'cf', 'fellowship', 'influenti', 'intersect', 'intervent', 'keynot', 'ml', 'princeton', 'sexism', 'variabl']
+Most Typical Words: ['algorithm', 'cf', 'dataset', 'identif', 'intersect', 'intervent', 'keynot', 'ml', 'sexism', 'tenur']
+Duplicate Count: 1
+
+Core Users: ['AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou']
+Core Items: ['gianni', 'jv', 'kyle', 'raptor', 'serg']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 1
+

@@ -1,0 +1,20 @@
+Core Users: ['adversariel', 'berty38', 'gokstudio', 'roydanroy', 'zacharylipton']
+Core Items: ['__', 'abbrevi', 'acquisit', 'admiss', 'adversari', 'albeit', 'alphabet', 'altogeth', 'atom', 'binari', 'bound', 'bw', 'cab', 'cach', 'categor', 'cf', 'character', 'coauthor', 'compress', 'conceptu', 'confound', 'cpu', 'discours', 'distribut', 'eager', 'exponenti', 'faculti', 'fellowship', 'fraction', 'fuzz', 'gabriel', 'git', 'github', 'gpu', 'graph', 'hacker', 'herring', 'impost', 'infosec', 'kera', 'linear', 'linux', 'logist', 'lotteri', 'malwar', 'mathemat', 'mathematician', 'maxim', 'misplac', 'ml', 'moreov', 'nevertheless', 'nip', 'noisi', 'notat', 'obfusc', 'overst', 'phd', 'preprint', 'primit', 'pytorch', 'recipi', 'replic', 'retroact', 'robust', 'roi', 'semant', 'subsequ', 'subset', 'suffic', 'supervis', 'tutor', 'unbound', 'undergrad', 'vacuum', 'vector', 'voicemail', 'writeup']
+Most Typical Words: ['algorithm', 'benchmark', 'cpu', 'dataset', 'embed', 'github', 'ml', 'nevertheless', 'preprint', 'undergrad']
+Duplicate Count: 15
+
+Core Users: ['EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['aipac', 'antisemit', 'gaza', 'hebrew', 'isra', 'israel', 'jew', 'jewish', 'netanyahu', 'shabbat', 'zionism']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'neonazi', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 10
+
+Core Users: ['CausalKathy', 'ShalitUri', 'alexdamour', 'angelamczhou', 'edwardhkennedy', 'johnmyleswhite']
+Core Items: ['assumpt', 'causal', 'cis', 'confound', 'error', 'identif', 'latent', 'ob', 'overlap', 'regress', 'rubin', 'statist']
+Most Typical Words: ['algorithm', 'assumpt', 'bw', 'causal', 'confound', 'identif', 'intervent', 'latent', 'regress', 'variabl']
+Duplicate Count: 9
+
+Core Users: ['AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou']
+Core Items: ['brogdon', 'danni', 'dribbl', 'foul', 'fred', 'isaac', 'jv', 'klay', 'kyle', 'layup', 'livingston', 'mccaw', 'middleton', 'norm', 'offenc', 'pascal', 'playoff', 'raptor', 'rebound', 'rotat', 'serg', 'steph', 'turnov']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 5
+

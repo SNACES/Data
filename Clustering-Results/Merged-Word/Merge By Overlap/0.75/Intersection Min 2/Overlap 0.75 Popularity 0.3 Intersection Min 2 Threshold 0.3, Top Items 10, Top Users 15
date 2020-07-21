@@ -1,0 +1,10 @@
+Core Users: ['AINowInstitute', 'A_Aspuru_Guzik', 'Aaroth', 'BrendaKLeong', 'FrankPasquale', 'NicolasPapernot', 'SoloGen', 'SussilloDavid', 'TedOnPrivacy', 'WillOremus', 'benzevgreen', 'j2bryson', 'katecrawford', 'mark_riedl', 'math_rachel', 'mikarv', 'packer_ben', 'random_walker', 'supergovernance', 'thesasho', 'wsisaac']
+Core Items: ['ai', 'algorithm', 'assess', 'differenti', 'metric', 'postdoc', 'preprint', 'privaci', 'selfdriv', 'surveil']
+Most Typical Words: ['algorithm', 'dataset', 'keynot', 'metric', 'ml', 'postdoc', 'preprint', 'privaci', 'quantum', 'selfdriv']
+Duplicate Count: 91
+
+Core Users: ['Aaroth', 'JohnHolbein1', 'ShalitUri', 'alexdamour', 'angelamczhou', 'blancamiller_', 'david_sontag', 'edwardhkennedy', 'fhuszar', 'geomblog', 'hardmaru', 'logangraham', 'maria__cuellar', 'natematias', 'packer_ben', 'suchisaria', 'tdietterich', 'yoavgo']
+Core Items: ['causal', 'confound', 'dataset', 'identif', 'intervent', 'latent', 'metric', 'ml', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'confound', 'dataset', 'identif', 'intervent', 'latent', 'ml', 'rl', 'variabl']
+Duplicate Count: 25
+

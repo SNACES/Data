@@ -1,0 +1,10 @@
+Core Users: ['A_Aspuru_Guzik', 'Aaroth', 'AmirRosenfeld', 'Miles_Brundage', 'SoloGen', 'SussilloDavid', 'adversariel', 'haldaume3', 'hardmaru', 'katecrawford', 'mark_riedl', 'natematias', 'rajiinio', 'thesasho', 'yisongyue', 'yoavgo']
+Core Items: ['analog', 'bandit', 'constraint', 'dataset', 'differenti', 'faculti', 'metric', 'misus', 'neuron', 'output', 'postdoc', 'preprint', 'scrape', 'selfdriv', 'tenur']
+Most Typical Words: ['algorithm', 'constraint', 'dataset', 'latent', 'ml', 'postdoc', 'preprint', 'quantum', 'rl', 'selfdriv']
+Duplicate Count: 15
+
+Core Users: ['JohnHolbein1', 'KLdivergence', 'ShalitUri', 'alexdamour', 'angelamczhou', 'benzevgreen', 'david_sontag', 'edwardhkennedy', 'fhuszar', 'geomblog', 'julia_azari', 'logangraham', 'maria__cuellar', 'mark_riedl', 'maya_sen', 'natematias', 'packer_ben']
+Core Items: ['assess', 'causal', 'confound', 'detector', 'dispar', 'faculti', 'hypothesi', 'identif', 'intervent', 'latent', 'metric', 'ml', 'partisan', 'scrape', 'selfdriv', 'subtweet', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'confound', 'identif', 'intervent', 'latent', 'mit', 'ml', 'tenur', 'variabl']
+Duplicate Count: 8
+

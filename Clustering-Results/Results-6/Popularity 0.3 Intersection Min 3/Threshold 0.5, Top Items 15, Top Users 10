@@ -1,0 +1,15 @@
+Core Users: ('BrendaKLeong', 'BrendanNyhan', 'NicolasPapernot', 'alexstamos', 'beenwrekt', 'catherineols', 'fhuszar', 'katecrawford', 'mark_riedl', 'roydanroy', 'zittrain')
+Core Items: ('algorithm', 'autonom', 'binari', 'coauthor', 'congression', 'detector', 'intervent', 'irrespons', 'keynot', 'median', 'metric', 'ml', 'neonazi', 'partisan', 'pod', 'raptor', 'rl', 'scrape', 'selfdriv', 'semant', 'sexism', 'skeptic', 'surveil', 'tenur', 'tfw', 'vancouv')
+Most Typical Words: ['algorithm', 'autonom', 'chronolog', 'github', 'marta', 'mit', 'ml', 'rl', 'selfdriv', 'semant']
+Duplicate Count: 112
+
+Core Users: ('BrendanNyhan', 'EvanSelinger', 'ModeledBehavior', 'Richard_Florida', 'SeanTrende', 'beenwrekt', 'bruce_arthur', 'catherineols', 'ddebow', 'ezraklein', 'julia_azari', 'katecrawford', 'maria__cuellar', 'mark_riedl', 'maya_sen', 'qjurecic', 'timhwang', 'william_lou', 'zittrain')
+Core Items: ('autonom', 'congression', 'detector', 'irrespons', 'median', 'partisan', 'pod', 'raptor', 'scrape', 'selfdriv', 'skeptic', 'surveil', 'tenur', 'tfw', 'vancouv')
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'detector', 'gianni', 'median', 'rl', 'selfdriv', 'serg', 'tenur']
+Duplicate Count: 11
+
+Core Users: ('BrendanNyhan', 'EgSophie', 'EvanSelinger', 'MichaelSLinden', 'ModeledBehavior', 'NicolasPapernot', 'SeanTrende', 'Smerity', 'alexstamos', 'aprilaser', 'catherineols', 'ddebow', 'fhuszar', 'j2bryson', 'johnmyleswhite', 'julia_azari', 'katecrawford', 'leeclemnet', 'maria__cuellar', 'mark_riedl', 'maya_sen', 'mikarv', 'nathanjurgenson', 'octonion', 'roydanroy', 'timhwang', 'zacharylipton', 'zittrain')
+Core Items: ('autonom', 'detector', 'irrespons', 'median', 'metric', 'ml', 'neonazi', 'partisan', 'scrape', 'selfdriv', 'semant', 'skeptic', 'surveil', 'tenur', 'tfw')
+Most Typical Words: ['algorithm', 'autonom', 'causal', 'intervent', 'keynot', 'metric', 'ml', 'selfdriv', 'semant', 'tenur']
+Duplicate Count: 4
+

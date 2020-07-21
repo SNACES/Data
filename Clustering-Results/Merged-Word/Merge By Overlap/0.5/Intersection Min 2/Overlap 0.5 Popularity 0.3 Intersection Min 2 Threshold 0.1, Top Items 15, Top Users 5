@@ -1,0 +1,20 @@
+Core Users: ['NicolasPapernot', 'math_rachel', 'supergovernance', 'tdietterich', 'zacharylipton']
+Core Items: ['admiss', 'adversari', 'ai', 'algebra', 'algorithm', 'altogeth', 'alum', 'analyt', 'api', 'assess', 'assumpt', 'attribut', 'autom', 'autonomi', 'bandit', 'bw', 'categor', 'causal', 'cf', 'character', 'classif', 'compon', 'confound', 'constraint', 'contextu', 'correl', 'debunk', 'differenti', 'discours', 'eager', 'embed', 'ensembl', 'ethic', 'exponenti', 'faculti', 'fellowship', 'fraction', 'framework', 'github', 'ht', 'increment', 'induct', 'keynot', 'linear', 'logist', 'metric', 'misus', 'ml', 'moreov', 'nevertheless', 'nip', 'nlp', 'oct', 'optim', 'outlier', 'overst', 'phd', 'pointer', 'preprint', 'procedur', 'pytorch', 'recipi', 'recognit', 'robust', 'semant', 'sensor', 'stakehold', 'stateoftheart', 'submiss', 'subset', 'supervis', 'surveil', 'tensorflow', 'unifi', 'workshop', 'à']
+Most Typical Words: ['algorithm', 'causal', 'embed', 'entangl', 'github', 'keynot', 'marta', 'metric', 'ml', 'semant']
+Duplicate Count: 277
+
+Core Users: ['BrendaKLeong', 'FrankPasquale', 'WillOremus', 'nathanjurgenson', 'zeynep']
+Core Items: ['adequ', 'algorithm', 'altogeth', 'amplifi', 'analytica', 'arbitrari', 'autom', 'autonom', 'backlash', 'bannon', 'batter', 'binari', 'biometr', 'blacklist', 'browser', 'cc', 'cf', 'character', 'clickbait', 'complement', 'conceptu', 'defer', 'deregul', 'discours', 'earnest', 'entrench', 'gmail', 'hah', 'hoc', 'hypothet', 'inequ', 'inhabit', 'inher', 'irrespons', 'logist', 'maxim', 'mediat', 'menac', 'metaphor', 'monopoli', 'neoliber', 'nich', 'overlord', 'pivot', 'privaci', 'refram', 'secreci', 'sensor', 'silicon', 'slack', 'sociolog', 'sphere', 'storytel', 'surveil', 'tos', 'writeup']
+Most Typical Words: ['algorithm', 'amplifi', 'discours', 'gmail', 'inher', 'intervent', 'keynot', 'metaphor', 'metric', 'skeptic']
+Duplicate Count: 36
+
+Core Users: ['AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou']
+Core Items: ['foul', 'fred', 'gianni', 'isaac', 'jv', 'livingston', 'norm', 'pascal', 'playoff', 'raptor', 'rebound', 'rotat', 'serg', 'steph', 'turnov']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 28
+
+Core Users: ['Susan_Athey', 'Undercoverhist', 'bencasselman', 'leah_boustan', 'poverty_action']
+Core Items: ['1970s', 'aggreg', 'alum', 'assumpt', 'broader', 'bw', 'clarifi', 'coauthor', 'condo', 'consensus', 'data', 'econ', 'economist', 'emphas', 'ensembl', 'fellowship', 'forprofit', 'forthcom', 'fulltim', 'grad', 'grandfath', 'hierarchi', 'identif', 'influenti', 'intervent', 'invers', 'jerusalem', 'juan', 'mathemat', 'migrat', 'neoliber', 'oct', 'org', 'oxford', 'preval', 'shabbat', 'shutdown', 'skeptic', 'stanford', 'straightforward', 'subtweet', 'suburb', 'tenur', 'undergrad', 'volatil']
+Most Typical Words: ['causal', 'coauthor', 'econ', 'economist', 'fryer', 'guido', 'intervent', 'macro', 'postdoc', 'stanford']
+Duplicate Count: 17
+

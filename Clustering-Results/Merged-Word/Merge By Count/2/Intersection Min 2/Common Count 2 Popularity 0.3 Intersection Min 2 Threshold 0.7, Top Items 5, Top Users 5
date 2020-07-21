@@ -1,0 +1,15 @@
+Core Users: ['3r1nG', 'BKCHarvard', 'JesseBrown', 'MattGertz', 'SeanTrende', 'Yair_Rosenberg', 'agstrait', 'aselbst', 'dsouzamichaelc', 'jessebett', 'liannapisani', 'maya_sen', 'rajiinio']
+Core Items: ['dough', 'intersect', 'misus', 'partisan', 'retract']
+Most Typical Words: ['algorithm', 'colleen', 'dataset', 'dough', 'fellowship', 'intersect', 'misus', 'partisan', 'retract', 'shrimp']
+Duplicate Count: 21
+
+Core Users: ['DoctorVive', 'EvanSelinger', 'SeanTrende', 'ZachLowe_NBA', 'angelamczhou', 'curaffairs', 'dhackett1565', 'edwardhkennedy', 'ezraklein', 'joey_doubleyou', 'johnmyleswhite', 'juliagalef', 'mattyglesias', 'nathanjurgenson', 'william_lou', 'wtevs']
+Core Items: ['hoc', 'identif', 'pod', 'serg', 'skeptic']
+Most Typical Words: ['causal', 'gianni', 'identif', 'intervent', 'pascal', 'pod', 'rebound', 'regress', 'serg', 'skeptic']
+Duplicate Count: 11
+
+Core Users: ['JohnHolbein1', 'ShalitUri', 'StatModeling', 'Susan_Athey', 'alexdamour', 'edwardhkennedy']
+Core Items: ['causal', 'confound', 'identif', 'postdoc', 'regress']
+Most Typical Words: ['assumpt', 'bw', 'causal', 'confound', 'identif', 'intervent', 'latent', 'postdoc', 'regress', 'variabl']
+Duplicate Count: 11
+

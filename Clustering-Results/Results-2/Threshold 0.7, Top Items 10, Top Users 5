@@ -1,0 +1,100 @@
+Core Users: ('NicolasPapernot', 'Susan_Athey', 'gokstudio', 'johnmyleswhite', 'zacharylipton')
+Core Items: ('admiss', 'adversari', 'approxim', 'benchmark', 'bw', 'causal', 'character', 'eager', 'ensembl', 'entangl', 'github', 'guido', 'hoc', 'lectur', 'linear', 'machin', 'marta', 'method', 'ml', 'nevertheless', 'paper', 'phd', 'preprint', 'pytorch', 'semant', 'skeptic', 'stanford', 'submiss', 'subset', 'workshop')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'bw', 'causal', 'github', 'ml', 'nevertheless', 'regress', 'semant']
+Duplicate Count: 12
+
+Core Users: ('NicolasPapernot', 'fhuszar', 'gokstudio', 'johnmyleswhite', 'zacharylipton')
+Core Items: ('admiss', 'adversari', 'approxim', 'benchmark', 'bw', 'causal', 'character', 'compress', 'eager', 'embed', 'entangl', 'github', 'hoc', 'hungarian', 'input', 'invari', 'linear', 'marta', 'method', 'ml', 'nevertheless', 'nich', 'oxford', 'paper', 'phd', 'preprint', 'pytorch', 'semant', 'skeptic', 'submiss', 'subset', 'subtweet')
+Most Typical Words: ['algorithm', 'approxim', 'causal', 'embed', 'github', 'intervent', 'invari', 'ml', 'nevertheless', 'semant']
+Duplicate Count: 19
+
+Core Users: ('JohnHolbein1', 'alexdamour', 'edwardhkennedy', 'johnmyleswhite', 'maya_sen')
+Core Items: ('benchmark', 'causal', 'confound', 'estim', 'faculti', 'forthcom', 'identif', 'method', 'regress', 'tenur')
+Most Typical Words: ['assumpt', 'benchmark', 'causal', 'confound', 'faculti', 'forthcom', 'identif', 'intervent', 'regress', 'tenur']
+Duplicate Count: 5
+
+Core Users: ('NicolasPapernot', 'gokstudio', 'hardmaru', 'rajiinio', 'zacharylipton')
+Core Items: ('admiss', 'adversari', 'benchmark', 'bw', 'character', 'dataset', 'ddos', 'domain', 'eager', 'entangl', 'github', 'hk', 'input', 'latent', 'linear', 'marta', 'ml', 'neuron', 'nevertheless', 'paper', 'preprint', 'pytorch', 'rl', 'semant', 'submiss', 'subset', 'workshop')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'character', 'dataset', 'github', 'latent', 'ml', 'rl', 'semant']
+Duplicate Count: 2
+
+Core Users: ('BrendaKLeong', 'EvanSelinger', 'SarahJamieLewis', 'karen_ec_levy', 'random_walker')
+Core Items: ('analog', 'autonomi', 'biometr', 'broader', 'browser', 'character', 'clickbait', 'comput', 'consensus', 'cryptograph', 'decentr', 'deriv', 'ditto', 'frt', 'graph', 'hash', 'identif', 'infosec', 'lindsey', 'malici', 'nevertheless', 'nonprofit', 'phd', 'pointer', 'privaci', 'sharehold', 'skeptic', 'surveil', 'swiss', 'tracker', 'undergrad', 'vancouv')
+Most Typical Words: ['algorithm', 'consensus', 'cryptograph', 'decentr', 'frt', 'infosec', 'malici', 'privaci', 'surveil', 'swiss']
+Duplicate Count: 2
+
+Core Users: ('NicolasPapernot', 'aivillage_dc', 'gokstudio', 'kswersk', 'leeclemnet')
+Core Items: ('admiss', 'adversari', 'eager', 'github', 'grad', 'input', 'marta', 'ml', 'nevertheless', 'paper', 'pytorch', 'semant', 'submiss', 'workshop')
+Most Typical Words: ['adversari', 'dataset', 'eager', 'entangl', 'github', 'marta', 'ml', 'nevertheless', 'pytorch', 'semant']
+Duplicate Count: 76
+
+Core Users: ('SmithaMilli', 'fhuszar', 'suchisaria', 'tdietterich', 'zacharylipton')
+Core Items: ('admiss', 'approxim', 'autonomi', 'benchmark', 'berkeley', 'bw', 'causal', 'character', 'compress', 'correl', 'deploy', 'embed', 'ensembl', 'hungarian', 'invari', 'linear', 'method', 'metric', 'ml', 'nevertheless', 'nich', 'optim', 'oxford', 'paper', 'phd', 'physician', 'pointer', 'preprint', 'rl', 'semant', 'submiss', 'subset', 'subtweet', 'suspicion', 'unifi')
+Most Typical Words: ['algorithm', 'approxim', 'bw', 'causal', 'embed', 'invari', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 4
+
+Core Users: ('JFutoma', 'gokstudio', 'hardmaru', 'jackclarkSF', 'randal_olson')
+Core Items: ('ai', 'anaconda', 'astonish', 'autonom', 'benchmark', 'broader', 'cab', 'dataset', 'ddos', 'deploy', 'diagnosi', 'domain', 'eager', 'eg', 'github', 'hk', 'latent', 'linear', 'malici', 'map', 'model', 'neuron', 'nevertheless', 'pytorch', 'rl', 'sepsi', 'trajectori')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'eg', 'embed', 'github', 'latent', 'malici', 'ml', 'rl']
+Duplicate Count: 23
+
+Core Users: ('AidanNGomez', 'JFutoma', 'NicolasPapernot', 'gokstudio', 'hardmaru', 'jackclarkSF', 'leeclemnet', 'mattschleg', 'rajiinio', 'randal_olson', 'tdietterich', 'zacharylipton')
+Core Items: ('admiss', 'ai', 'benchmark', 'dataset', 'domain', 'eager', 'ensembl', 'github', 'linear', 'ml', 'nevertheless', 'phd', 'rl', 'semant')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'causal', 'dataset', 'embed', 'github', 'ml', 'rl', 'semant']
+Duplicate Count: 37
+
+Core Users: ('JohnHolbein1', 'edwardhkennedy', 'fhuszar', 'johnmyleswhite', 'zacharylipton')
+Core Items: ('approxim', 'causal', 'identif', 'linear', 'method', 'ml', 'nevertheless', 'phd', 'regress', 'semant', 'subtweet')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'embed', 'identif', 'intervent', 'ml', 'regress', 'tenur']
+Duplicate Count: 2
+
+Core Users: ('NicolasPapernot', 'gokstudio', 'hardmaru', 'jackclarkSF', 'randal_olson')
+Core Items: ('adversari', 'ai', 'anaconda', 'astonish', 'benchmark', 'broader', 'cab', 'dataset', 'ddos', 'domain', 'eager', 'eg', 'entangl', 'github', 'hk', 'input', 'interact', 'latent', 'linear', 'malici', 'map', 'marta', 'ml', 'neuron', 'nevertheless', 'paper', 'pytorch', 'rl', 'semant', 'submiss', 'workshop')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'eg', 'embed', 'github', 'latent', 'malici', 'ml', 'rl']
+Duplicate Count: 2
+
+Core Users: ('JohnHolbein1', 'StatModeling', 'alexdamour', 'edwardhkennedy', 'johnmyleswhite', 'mikarv')
+Core Items: ('benchmark', 'causal', 'confound', 'estim', 'forthcom', 'identif', 'method', 'regress', 'scrape', 'varianc')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'confound', 'forthcom', 'identif', 'intervent', 'regress', 'tenur', 'variabl']
+Duplicate Count: 5
+
+Core Users: ('NicolasPapernot', 'SussilloDavid', 'adversariel', 'gokstudio', 'hardmaru')
+Core Items: ('adversari', 'benchmark', 'dataset', 'ddos', 'deploy', 'deriv', 'domain', 'eager', 'entangl', 'github', 'hk', 'input', 'latent', 'linear', 'marta', 'ml', 'neuron', 'neurosci', 'nevertheless', 'paper', 'preprint', 'pytorch', 'quota', 'rl', 'semant', 'submiss', 'workshop')
+Most Typical Words: ['algorithm', 'dataset', 'github', 'latent', 'ml', 'neuron', 'neurosci', 'postdoc', 'preprint', 'rl']
+Duplicate Count: 7
+
+Core Users: ('AidanNGomez', 'JFutoma', 'NicolasPapernot', 'gokstudio', 'hardmaru', 'jackclarkSF', 'mattschleg', 'rajiinio', 'randal_olson', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'benchmark', 'dataset', 'domain', 'eager', 'ensembl', 'github', 'linear', 'ml', 'nevertheless', 'phd', 'rl', 'semant')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'causal', 'dataset', 'embed', 'github', 'ml', 'rl', 'semant']
+Duplicate Count: 1
+
+Core Users: ('JFutoma', 'NicolasPapernot', 'gokstudio', 'hardmaru', 'jackclarkSF', 'mattschleg', 'rajiinio', 'randal_olson', 'tdietterich', 'zacharylipton')
+Core Items: ('ai', 'benchmark', 'dataset', 'domain', 'eager', 'github', 'linear', 'ml', 'nevertheless', 'phd', 'rl', 'semant')
+Most Typical Words: ['algorithm', 'autonom', 'benchmark', 'causal', 'dataset', 'embed', 'github', 'ml', 'rl', 'semant']
+Duplicate Count: 2
+
+Core Users: ('NicolasPapernot', 'berty38', 'gokstudio', 'hardmaru', 'jackclarkSF')
+Core Items: ('adversari', 'ai', 'astonish', 'benchmark', 'broader', 'dataset', 'ddos', 'domain', 'eager', 'eg', 'entangl', 'github', 'hk', 'impost', 'input', 'invert', 'latent', 'linear', 'machin', 'malici', 'marta', 'ml', 'neuron', 'nevertheless', 'paper', 'pytorch', 'review', 'rl', 'semant', 'submiss', 'undergrad', 'workshop')
+Most Typical Words: ['algorithm', 'benchmark', 'dataset', 'eg', 'embed', 'github', 'latent', 'malici', 'ml', 'rl']
+Duplicate Count: 2
+
+Core Users: ('NicolasPapernot', 'gokstudio', 'suchisaria', 'tdietterich', 'zacharylipton')
+Core Items: ('admiss', 'adversari', 'ai', 'autonomi', 'benchmark', 'bw', 'causal', 'character', 'correl', 'deploy', 'eager', 'ensembl', 'entangl', 'input', 'linear', 'marta', 'method', 'metric', 'ml', 'nevertheless', 'optim', 'paper', 'phd', 'physician', 'pointer', 'preprint', 'pytorch', 'rl', 'semant', 'submiss', 'subset', 'unifi', 'workshop')
+Most Typical Words: ['algorithm', 'benchmark', 'bw', 'causal', 'dataset', 'embed', 'metric', 'ml', 'rl', 'semant']
+Duplicate Count: 2
+
+Core Users: ('JohnHolbein1', 'StatModeling', 'alexdamour', 'edwardhkennedy', 'johnmyleswhite', 'zacharylipton')
+Core Items: ('benchmark', 'causal', 'confound', 'estim', 'identif', 'linear', 'method', 'regress', 'semant', 'varianc')
+Most Typical Words: ['benchmark', 'bw', 'causal', 'confound', 'identif', 'intervent', 'ml', 'regress', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ('AINowInstitute', 'StatModeling', 'Susan_Athey', 'SussilloDavid', 'poverty_action')
+Core Items: ('colombian', 'columbia', 'deriv', 'ephron', 'forprofit', 'guido', 'intervent', 'lectur', 'linear', 'machin', 'mamp', 'nairobi', 'neurosci', 'oct', 'postdoc', 'preprint', 'regress', 'richardson', 'stanford', 'webinar')
+Most Typical Words: ['algorithm', 'causal', 'econ', 'economist', 'ephron', 'intervent', 'nairobi', 'oct', 'postdoc', 'regress']
+Duplicate Count: 1
+
+Core Users: ('JohnHolbein1', 'NicolasPapernot', 'ShalitUri', 'SmithaMilli', 'SolomonMg', 'aivillage_dc', 'fhuszar', 'johnmyleswhite', 'logangraham', 'suchisaria', 'tdietterich', 'zacharylipton')
+Core Items: ('benchmark', 'causal', 'intervent', 'linear', 'method', 'ml', 'nevertheless', 'paper', 'phd', 'semant', 'submiss', 'subtweet', 'varianc')
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'embed', 'intervent', 'metric', 'ml', 'regress', 'semant']
+Duplicate Count: 1
+

@@ -1,0 +1,25 @@
+Core Users: ['haldaume3', 'j2bryson', 'katecrawford', 'mark_riedl', 'natematias']
+Core Items: ['ai', 'autonom', 'bandit', 'eg', 'faculti', 'gmail', 'hah', 'influenti', 'overst', 'pointer', 'scrape', 'selfdriv', 'sociolog', 'stakehold', 'tenur', 'volatil']
+Most Typical Words: ['algorithm', 'autonom', 'bandit', 'cf', 'dataset', 'intervent', 'postdoc', 'rl', 'selfdriv', 'tenur']
+Duplicate Count: 69
+
+Core Users: ['Aaroth', 'BrendaKLeong', 'TedOnPrivacy', 'mmitchell_ai', 'packer_ben']
+Core Items: ['algorithm', 'assess', 'biometr', 'classif', 'clickbait', 'confound', 'constraint', 'dataset', 'differenti', 'latinx', 'metric', 'mitig', 'privaci', 'sexism', 'tos']
+Most Typical Words: ['algorithm', 'classif', 'dataset', 'differenti', 'discriminatori', 'keynot', 'metric', 'parol', 'privaci', 'sexism']
+Duplicate Count: 13
+
+Core Users: ['KLdivergence', 'angelamczhou', 'david_sontag', 'mrtz', 'tyrell_turing', 'wsisaac']
+Core Items: ['assess', 'character', 'correl', 'cough', 'dispar', 'environment', 'hypothesi', 'identif', 'irrespons', 'latent', 'misus', 'mit', 'mitig', 'neurosci', 'subset', 'tos', 'variabl']
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'cf', 'intervent', 'latent', 'mit', 'postdoc', 'rl', 'variabl']
+Duplicate Count: 6
+
+Core Users: ['FrankPasquale', 'NicolasPapernot', 'gokstudio', 'hardmaru', 'zacharylipton']
+Core Items: ['cpu', 'dataset', 'differenti', 'discours', 'eager', 'fraction', 'github', 'increment', 'irrespons', 'logist', 'ml', 'neoliber', 'neuron', 'nich', 'semant', 'surveil', 'unrel']
+Most Typical Words: ['algorithm', 'dataset', 'eager', 'entangl', 'github', 'marta', 'ml', 'pytorch', 'rl', 'semant']
+Duplicate Count: 5
+
+Core Users: ['geomblog', 'irenetrampoline', 'kongaloosh', 'mbogen', 'melosare', 'tyrell_turing']
+Core Items: ['cohort', 'correl', 'cough', 'dispar', 'eager', 'environment', 'hah', 'intersect', 'irrespons', 'mathemat', 'misus', 'mit', 'ml', 'neurosci', 'python', 'rad', 'subset', 'tenur', 'undergrad']
+Most Typical Words: ['algorithm', 'eager', 'intersect', 'keynot', 'mit', 'ml', 'oct', 'reallyy', 'thesiswrit', 'undergrad']
+Duplicate Count: 2
+

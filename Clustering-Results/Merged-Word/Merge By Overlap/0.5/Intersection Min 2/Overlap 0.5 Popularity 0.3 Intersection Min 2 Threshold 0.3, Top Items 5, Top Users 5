@@ -1,0 +1,35 @@
+Core Users: ['berty38', 'david_sontag', 'hima_lakkaraju', 'irenetrampoline', 'zacharylipton']
+Core Items: ['character', 'mit', 'ml', 'subset', 'supervis']
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'debug', 'faculti', 'github', 'mit', 'ml', 'rl']
+Duplicate Count: 136
+
+Core Users: ['ShalitUri', 'alexdamour', 'angelamczhou', 'edwardhkennedy', 'logangraham']
+Core Items: ['causal', 'confound', 'identif', 'intervent', 'latent']
+Most Typical Words: ['algorithm', 'bw', 'causal', 'confound', 'identif', 'intervent', 'latent', 'ml', 'regress', 'variabl']
+Duplicate Count: 67
+
+Core Users: ['Aaroth', 'Miles_Brundage', 'SolomonMg', 'TedOnPrivacy', 'alexstamos', 'jackclarkSF', 'mikarv', 'moyix', 'rajiinio']
+Core Items: ['aggreg', 'api', 'backdoor', 'data', 'dataset', 'differenti', 'eg', 'malici', 'misus', 'presum', 'privaci', 'replic', 'rsa', 'scope']
+Most Typical Words: ['algorithm', 'binari', 'constraint', 'dataset', 'differenti', 'embed', 'github', 'intervent', 'keynot', 'privaci']
+Duplicate Count: 34
+
+Core Users: ['KLdivergence', 'aselbst', 'benzevgreen', 'fermatslibrary', 'jefrankle', 'mbogen', 'melosare', 'octonion', 'sina_lana', 'thesasho', 'wsisaac']
+Core Items: ['assess', 'dispar', 'hypothesi', 'mathemat', 'polynomi']
+Most Typical Words: ['algorithm', 'assess', 'hypothesi', 'intersect', 'lotteri', 'mathemat', 'mathematician', 'prune', 'quantum', 'undergrad']
+Duplicate Count: 20
+
+Core Users: ['AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou']
+Core Items: ['gianni', 'jv', 'kyle', 'raptor', 'serg']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 7
+
+Core Users: ['ModeledBehavior', 'Susan_Athey', 'bencasselman', 'matthewstoller', 'poverty_action']
+Core Items: ['cps', 'dudley', 'econ', 'economist', 'monetari', 'recess', 'volatil']
+Most Typical Words: ['causal', 'econ', 'economist', 'ensembl', 'fryer', 'guido', 'intervent', 'postdoc', 'stanford', 'volatil']
+Duplicate Count: 7
+
+Core Users: ['EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['aipac', 'isra', 'jew', 'jewish', 'netanyahu', 'zionism', 'zionist']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'neonazi', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 4
+
