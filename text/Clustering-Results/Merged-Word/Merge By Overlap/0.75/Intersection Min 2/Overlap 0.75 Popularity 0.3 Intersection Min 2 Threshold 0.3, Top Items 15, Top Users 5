@@ -1,0 +1,35 @@
+Core Users: ['haldaume3', 'j2bryson', 'katecrawford', 'mark_riedl', 'natematias']
+Core Items: ['ai', 'autonom', 'bandit', 'eg', 'faculti', 'gmail', 'hah', 'influenti', 'overst', 'pointer', 'scrape', 'selfdriv', 'sociolog', 'stakehold', 'tenur', 'volatil']
+Most Typical Words: ['algorithm', 'autonom', 'bandit', 'cf', 'dataset', 'intervent', 'postdoc', 'rl', 'selfdriv', 'tenur']
+Duplicate Count: 205
+
+Core Users: ['Aaroth', 'FrankPasquale', 'mmitchell_ai', 'packer_ben', 'thesasho']
+Core Items: ['algorithm', 'assess', 'biometr', 'classif', 'constraint', 'dataset', 'differenti', 'discours', 'irrespons', 'latinx', 'mathemat', 'metric', 'mitig', 'neoliber', 'nich', 'preprint', 'privaci', 'sexism', 'surveil', 'variabl']
+Most Typical Words: ['algorithm', 'constraint', 'dataset', 'differenti', 'discriminatori', 'metric', 'parol', 'quantum', 'sexism', 'variabl']
+Duplicate Count: 51
+
+Core Users: ['david_sontag', 'natematias', 'packer_ben', 'tyrell_turing', 'zacharylipton']
+Core Items: ['assess', 'bandit', 'character', 'classif', 'confound', 'correl', 'cough', 'discours', 'environment', 'faculti', 'fraction', 'increment', 'irrespons', 'logist', 'misus', 'mit', 'neuron', 'neurosci', 'sexism', 'subset', 'tenur', 'unrel']
+Most Typical Words: ['algorithm', 'causal', 'confound', 'dataset', 'discriminatori', 'mit', 'ml', 'parol', 'rl', 'sexism']
+Duplicate Count: 50
+
+Core Users: ['aselbst', 'benzevgreen', 'packer_ben', 'supergovernance', 'wsisaac']
+Core Items: ['ai', 'algorithm', 'assess', 'classif', 'confound', 'correl', 'dispar', 'logist', 'partisan', 'selfdriv', 'sexism', 'stakehold', 'substant', 'subtweet', 'tos']
+Most Typical Words: ['algorithm', 'assess', 'causal', 'classif', 'dataset', 'discriminatori', 'dispar', 'intervent', 'parol', 'sexism']
+Duplicate Count: 19
+
+Core Users: ['NicolasPapernot', 'SolomonMg', 'WillOremus', 'moyix', 'rctatman', 'yoavgo']
+Core Items: ['api', 'backlash', 'bannon', 'binari', 'cpu', 'dataset', 'differenti', 'eager', 'earnest', 'github', 'gmail', 'ml', 'pivot', 'python', 'semant', 'silicon', 'substant']
+Most Typical Words: ['algorithm', 'binari', 'dataset', 'embed', 'github', 'gustav', 'marta', 'ml', 'privaci', 'semant']
+Duplicate Count: 18
+
+Core Users: ['FrankPasquale', 'NicolasPapernot', 'gokstudio', 'hardmaru', 'zacharylipton']
+Core Items: ['cpu', 'dataset', 'differenti', 'discours', 'eager', 'fraction', 'github', 'increment', 'irrespons', 'logist', 'ml', 'neoliber', 'neuron', 'nich', 'semant', 'surveil', 'unrel']
+Most Typical Words: ['algorithm', 'dataset', 'eager', 'entangl', 'github', 'marta', 'ml', 'pytorch', 'rl', 'semant']
+Duplicate Count: 5
+
+Core Users: ['geomblog', 'irenetrampoline', 'kongaloosh', 'mbogen', 'melosare', 'tyrell_turing']
+Core Items: ['cohort', 'correl', 'cough', 'dispar', 'eager', 'environment', 'hah', 'intersect', 'irrespons', 'mathemat', 'misus', 'mit', 'ml', 'neurosci', 'python', 'rad', 'subset', 'tenur', 'undergrad']
+Most Typical Words: ['algorithm', 'eager', 'intersect', 'keynot', 'mit', 'ml', 'oct', 'reallyy', 'thesiswrit', 'undergrad']
+Duplicate Count: 3
+

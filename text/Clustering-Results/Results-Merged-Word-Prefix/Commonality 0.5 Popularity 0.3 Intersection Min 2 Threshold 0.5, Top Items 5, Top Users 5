@@ -1,0 +1,45 @@
+Core Users: ['KLdivergence', 'angelamczhou', 'judywawira', 'poverty_action', 'thesasho', 'ShalitUri', 'alexdamour', 'edwardhkennedy', 'YBenkler', 'causalinf', 'david_sontag', 'logangraham', 'natematias', 'johnmyleswhite', 'JohnHolbein1', 'geomblog', 'maria__cuellar', 'linamkhan', 'megberetta', 'jennwvaughan', 'mmitchell_ai']
+Core Items: ['assess', 'cf', 'detector', 'dispar', 'fellowship', 'forprofit', 'intervent', 'kissing', 'leon', 'metric', 'preprint', 'variabl', 'bw', 'causal', 'cis', 'confound', 'identif', 'regress', 'emphas', 'jamieson', 'latent', 'mit', 'bandit', 'influenti', 'infowar', 'princeton', 'hoc', 'skeptic', 'tenur', 'forthcom', 'grandfath', 'increment', 'monopoli', 'procur', 'stakehold', 'subcommitte', 'biometr', 'intersect', 'keynot', 'ml', 'sexism']
+Most Typical Words: ['algorithm', 'causal', 'cf', 'fellowship', 'identif', 'intervent', 'keynot', 'latent', 'quantum', 'variabl', 'bw', 'confound', 'detector', 'regress', 'mit', 'ml', 'dataset', 'assumpt', 'tenur', 'forthcom', 'railroad', 'subcommitte', 'intersect', 'sexism']
+Duplicate Count: 119
+
+Core Users: ['NicolasPapernot', 'catherineols', 'david_sontag', 'irenetrampoline', 'rajiinio', 'zacharylipton', 'adversariel', 'random_walker', 'AINowInstitute', 'A_Aspuru_Guzik', 'BrendaKLeong', 'BrendanNyhan', 'StatModeling', 'SussilloDavid', 'benzevgreen', 'cobyviner', 'geomblog', 'grimmelm', 'harvard_data', 'j2bryson', 'mark_riedl', 'zittrain', 'beenwrekt', '3r1nG', 'Aaroth', 'AmirRosenfeld', 'JFutoma', 'Miles_Brundage', 'ModeledBehavior', 'Smerity', 'TedOnPrivacy', '_asubbaswamy', 'gokstudio', 'jackclarkSF', 'kdphd', 'korymath', 'negar_rz', 'packer_ben', 'randal_olson', 'rctatman', 'yoavgo', 'KLdivergence', 'thesasho', 'jennwvaughan', 'MarzyehGhassemi', 'berty38', 'leeclemnet', 'mikekimbackward', 'angelamczhou']
+Core Items: ['adversari', 'analog', 'categor', 'character', 'detector', 'kissing', 'misus', 'mit', 'ml', 'moreov', 'oct', 'semant', 'stakehold', 'cryptograph', 'infosec', 'noisi', 'preprint', 'privaci', 'broader', 'postdoc', 'selfdriv', 'autonom', 'autonomi', 'russ', 'dataset', 'output', 'assess', 'deriv', 'dispar', 'jill', 'metric', 'neurosci', 'variabl', 'colab', 'irrespons', 'cf', 'copyright', 'intersect', 'keynot', 'scrape', 'stylegan', 'undergrad', 'algorithm', 'subset', 'tos', 'tenur', 'intervent']
+Most Typical Words: ['algorithm', 'causal', 'eager', 'github', 'keynot', 'mit', 'ml', 'rl', 'semant', 'subset', 'adversari', 'marta', 'privaci', 'character', 'confound', 'oct', 'intervent', 'postdoc', 'quantum', 'regress', 'selfdriv', 'autonom', 'chronolog', 'benchmark', 'dataset', 'etdoa', 'invari', 'latent', 'redistrict', 'assess', 'preprint', 'variabl', 'analog', 'copyright', 'irrespons', 'stylegan', 'intersect', 'tenur', 'mimic', 'undergrad', 'abbrevi', 'metric', 'neurosci', 'v2', 'deriv', 'richardson', 'colab']
+Duplicate Count: 115
+
+Core Users: ['A_Aspuru_Guzik', 'NicolasPapernot', 'SussilloDavid', 'adversariel', 'irenetrampoline', 'jennwvaughan', 'benzevgreen', 'grimmelm', 'j2bryson', 'EvanSelinger', 'nathanjurgenson']
+Core Items: ['adversari', 'deriv', 'infosec', 'intersect', 'jill', 'keynot', 'mit', 'ml', 'neurosci', 'noisi', 'oct', 'postdoc', 'preprint', 'privaci', 'selfdriv', 'assess', 'broader', 'cf', 'copyright', 'tos', 'amplifi', 'autonomi', 'metaphor', 'metric', 'semant', 'skeptic', 'surveil']
+Most Typical Words: ['algorithm', 'eager', 'github', 'intersect', 'keynot', 'mit', 'ml', 'postdoc', 'preprint', 'quantum', 'assess', 'copyright', 'deriv', 'neurosci', 'selfdriv', 'semant', 'entangl', 'marta', 'metric']
+Duplicate Count: 35
+
+Core Users: ['Aaroth', 'BrendaKLeong', 'NicolasPapernot', 'SolomonMg', 'TedOnPrivacy', 'WillOremus', 'alexstamos', 'berty38', 'catherineols', 'judyhshen', 'kdphd', 'leeclemnet', 'melosare', 'propublica', 'random_walker', 'sarahcolq', 'yisongyue', 'SarahJamieLewis']
+Core Items: ['api', 'constraint', 'detector', 'privaci', 'undergrad', 'adversari', 'backlash', 'batter', 'broader', 'clickbait', 'cryptograph', 'earnest', 'infosec', 'inher', 'ml', 'semant', 'amplifi', 'biometr', 'consensus', 'data', 'jamieson', 'malici', 'scrape', 'surveil', 'tos']
+Most Typical Words: ['algorithm', 'dataset', 'knowedg', 'ml', 'privaci', 'rebeccapurpl', 'redistrict', 'springgreen', 'undergrad', '小冰', 'adversari', 'entangl', 'github', 'keynot', 'marta', 'semant', 'tf2', 'api']
+Duplicate Count: 26
+
+Core Users: ['3r1nG', 'Aaroth', 'FrankPasquale', 'MarzyehGhassemi', 'Miles_Brundage', 'MrDanielMax', 'SeanMcElwee', 'Smerity', 'TedOnPrivacy', '_asubbaswamy', 'benzevgreen', 'gokstudio', 'grimmelm', 'jackclarkSF', 'kdphd', 'korymath', 'mark_riedl', 'matthewstoller', 'negar_rz', 'packer_ben', 'rajiinio', 'randal_olson', 'rctatman', 'tw_killian', 'yoavgo', 'zittrain', '1vnzh', 'ShannonVallor', 'SingularMattrix', 'ddebow', 'math_rachel', 'moyix']
+Core Items: ['analog', 'dataset', 'neoliber', 'scrape', 'selfdriv', 'clickbait', 'cpu', 'detector', 'embed', 'ethic', 'ethicist', 'github', 'increment', 'metric', 'ssh', 'subtweet', 'tfw']
+Most Typical Words: ['algorithm', 'dataset', 'etdoa', 'eyxz', 'invari', 'latent', 'misleadingconfus', 'ml', 'redistrict', 'selfdriv', 'benchmark', 'binari', 'cpu', 'embed', 'github', 'postdoc', 'renam', 'subtweet', 'tracker']
+Duplicate Count: 11
+
+Core Users: ['haldaume3', 'halhod', 'julia_azari', 'karen_ec_levy', 'maya_sen', 'natematias', 'A_Aspuru_Guzik', 'OsitaNwanevu', 'SussilloDavid', 'bruce_arthur']
+Core Items: ['bandit', 'faculti', 'influenti', 'median', 'nich', 'partisan', 'pointer', 'princeton', 'sociolog', 'substant', 'subtweet', 'surveil', 'tenur', 'deriv', 'neurosci', 'postdoc', 'preprint', 'reconcili', 'selfdriv', 'hah', 'hog', 'vancouv']
+Most Typical Words: ['algorithm', 'coauthor', 'faculti', 'forthcom', 'hah', 'lindsey', 'mit', 'partisan', 'pointer', 'tenur', 'deriv', 'neurosci', 'postdoc', 'preprint', 'quantum', 'bandit', 'hog']
+Duplicate Count: 11
+
+Core Users: ['AlecMacGillis', 'DaraKaye', 'MichaelSLinden', 'ModeledBehavior', 'Susan_Athey', 'Undercoverhist', 'bencasselman', 'ddebow', 'johnmyleswhite', 'juliagalef', 'madbev14', 'mattyglesias', 'maya_sen', 'nathanjurgenson', 'randal_olson', 'timhwang']
+Core Items: ['cps', 'economist', 'hoc', 'median', 'recess', 'skeptic', 'slowdown', 'tfw']
+Most Typical Words: ['algorithm', 'causal', 'econ', 'economist', 'github', 'identif', 'median', 'skeptic', 'tenur', 'tfw']
+Duplicate Count: 3
+
+Core Users: ['AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou', 'ZachLowe_NBA']
+Core Items: ['gianni', 'jv', 'kyle', 'raptor', 'serg', 'pascal', 'pelican', 'pod']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 2
+
+Core Users: ['1vnzh', 'ShannonVallor', 'SingularMattrix', 'math_rachel', 'moyix']
+Core Items: ['binari', 'clickbait', 'cpu', 'embed', 'ethic', 'github', 'metric', 'ssh', 'subtweet']
+Most Typical Words: ['algorithm', 'benchmark', 'binari', 'cpu', 'embed', 'github', 'keynot', 'postdoc', 'renam', 'tracker']
+Duplicate Count: 1
+

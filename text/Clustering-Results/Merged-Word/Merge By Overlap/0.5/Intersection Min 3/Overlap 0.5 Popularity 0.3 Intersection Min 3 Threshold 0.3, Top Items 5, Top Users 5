@@ -1,0 +1,25 @@
+Core Users: ['ShalitUri', 'david_sontag', 'haldaume3', 'hima_lakkaraju', 'logangraham']
+Core Items: ['alg', 'causal', 'character', 'compon', 'confound', 'debug', 'eg', 'faculti', 'hah', 'inquir', 'intervent', 'juan', 'latent', 'metric', 'mit', 'ml', 'output', 'overst', 'pointer', 'stakehold', 'subset', 'unknow', 'workshop']
+Most Typical Words: ['algorithm', 'causal', 'confound', 'debug', 'faculti', 'intervent', 'latent', 'mit', 'ml', 'rl']
+Duplicate Count: 5
+
+Core Users: ['EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['aipac', 'isra', 'jew', 'jewish', 'netanyahu', 'zionism', 'zionist']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'neonazi', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 3
+
+Core Users: ['AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou']
+Core Items: ['gianni', 'jv', 'kyle', 'raptor', 'serg']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 3
+
+Core Users: ['BrendaKLeong', 'EvanSelinger', 'SarahJamieLewis', 'WillOremus', 'random_walker']
+Core Items: ['biometr', 'browser', 'cryptograph', 'infosec', 'privaci', 'surveil']
+Most Typical Words: ['algorithm', 'coauthor', 'consensus', 'cryptograph', 'decentr', 'frt', 'infosec', 'intervent', 'privaci', 'surveil']
+Duplicate Count: 3
+
+Core Users: ['CANADALAND', 'GraphicMatt', 'RonSoupprune', 'iamstripedhorse', 'jen_keesmaat', 'm_layton', 'wgrathwohl']
+Core Items: ['ontario', 'provinci', 'streetcar', 'transit', 'ttc']
+Most Typical Words: ['allosexuel', 'bay', 'councillor', 'framework', 'grindin', 'jeopardi', 'ontario', 'provinci', 'streetcar', 'ttc']
+Duplicate Count: 1
+

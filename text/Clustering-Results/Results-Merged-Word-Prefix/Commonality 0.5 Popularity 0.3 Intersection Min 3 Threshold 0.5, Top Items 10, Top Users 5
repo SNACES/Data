@@ -1,0 +1,15 @@
+Core Users: ['catherineols', 'irenetrampoline', 'jennwvaughan', 'rajiinio', 'zittrain', 'NicolasPapernot', 'thesasho', 'yisongyue', 'KLdivergence', 'angelamczhou', 'benzevgreen', 'alexstamos', 'timoreilly', 'mikekimbackward', 'packer_ben', 'AINowInstitute', 'A_Aspuru_Guzik', 'SoloGen', 'geomblog', 'haldaume3', 'katecrawford', 'mark_riedl', 'roydanroy', 'zeynep', 'GaryMarchant1', 'JohnHolbein1', 'julia_azari', 'maya_sen', 'EvanSelinger', 'BrendaKLeong', 'WillOremus', 'mmitchell_ai', 'nathanjurgenson', 'Smerity', 'BrendanNyhan']
+Core Items: ['analog', 'detector', 'intersect', 'keynot', 'kissing', 'mit', 'ml', 'oct', 'selfdriv', 'stakehold', 'constraint', 'preprint', 'privaci', 'semant', 'subset', 'variabl', 'assess', 'broader', 'dispar', 'identif', 'intervent', 'amplifi', 'api', 'congression', 'earnest', 'monopoli', 'scrape', 'algorithm', 'metric', 'sexism', 'categor', 'hah', 'postdoc', 'tenur', 'coauthor', 'forthcom', 'median', 'partisan', 'subtweet', 'skeptic', 'substant', 'surveil', 'backlash', 'biometr', 'clickbait', 'irrespons', 'overst']
+Most Typical Words: ['algorithm', 'analog', 'eager', 'intersect', 'keynot', 'mit', 'ml', 'oct', 'selfdriv', 'subset', 'constraint', 'entangl', 'github', 'kissing', 'marta', 'quantum', 'semant', 'assess', 'causal', 'cf', 'identif', 'intervent', 'latent', 'variabl', 'outlier', 'privaci', 'abbrevi', 'attribut', 'metric', 'parol', 'faculti', 'postdoc', 'richardson', 'rl', 'tenur', 'asu', 'coauthor', 'crossfertil', 'forthcom', 'gnlu', 'hah', 'karjala', 'lightduti', 'scienv', 'approxim', 'embed', 'autonom', 'preprint', 'adversari', 'tf2', 'dispar', 'sexism', 'amplifi', 'dataset', 'discriminatori', 'factcheck', 'gmail', 'invari']
+Duplicate Count: 25
+
+Core Users: ['BrendaKLeong', 'BrendanNyhan', 'alexstamos', 'benzevgreen', 'thesasho', 'Miles_Brundage', 'Smerity', 'zeynep', 'mikekimbackward', 'rajiinio', 'packer_ben', 'NicolasPapernot', 'EvanSelinger', 'katecrawford', 'maria__cuellar', 'mark_riedl', 'nathanjurgenson', 'zittrain']
+Core Items: ['amplifi', 'api', 'assess', 'backlash', 'biometr', 'broader', 'clickbait', 'irrespons', 'kissing', 'overst', 'preprint', 'scrape', 'selfdriv', 'variabl', 'analog', 'dataset', 'algorithm', 'metric', 'stakehold', 'subset', 'sexism', 'ml', 'privaci', 'semant', 'detector', 'skeptic', 'surveil', 'tenur']
+Most Typical Words: ['algorithm', 'assess', 'broader', 'embed', 'intervent', 'invari', 'kissing', 'metric', 'quantum', 'variabl', 'amplifi', 'dataset', 'factcheck', 'irrespons', 'overst', 'scrape', 'stylegan', 'abbrevi', 'amirata', 'garg', 'subset', 'sumegha', 'attribut', 'discriminatori', 'parol', 'entangl', 'github', 'keynot', 'marta', 'ml', 'privaci', 'semant', 'autonom', 'causal', 'detector', 'imparti', 'selfdriv', 'skeptic', 'tenur']
+Duplicate Count: 18
+
+Core Users: ['BrendaKLeong', 'NicolasPapernot', 'thesasho', 'yisongyue', 'zacharylipton']
+Core Items: ['analog', 'biometr', 'broader', 'categor', 'clickbait', 'constraint', 'metric', 'ml', 'preprint', 'privaci', 'semant', 'subset', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'constraint', 'entangl', 'github', 'marta', 'ml', 'preprint', 'quantum', 'semant']
+Duplicate Count: 3
+

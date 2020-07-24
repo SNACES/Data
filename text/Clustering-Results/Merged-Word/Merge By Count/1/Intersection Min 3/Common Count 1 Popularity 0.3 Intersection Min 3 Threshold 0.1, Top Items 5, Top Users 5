@@ -1,0 +1,25 @@
+Core Users: ['berty38', 'fhuszar', 'hima_lakkaraju', 'irenetrampoline', 'julius_adebayo', 'leeclemnet', 'zacharylipton']
+Core Items: ['admiss', 'clarif', 'debug', 'exponenti', 'fraction', 'ml', 'nip', 'prof', 'supervis']
+Most Typical Words: ['algorithm', 'dataset', 'debug', 'img', 'lissaj', 'mit', 'ml', 'sampw', 'undergrad', 'woahw']
+Duplicate Count: 11
+
+Core Users: ['EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['aipac', 'antisemit', 'gaza', 'isra', 'israel', 'jew', 'jewish', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'neonazi', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 7
+
+Core Users: ['EvanSelinger', 'SarahJamieLewis', 'WillOremus', 'elizabeth_joh', 'random_walker']
+Core Items: ['analytica', 'cryptograph', 'decentr', 'hypothet', 'infosec', 'privaci', 'recognit', 'redact', 'surveil']
+Most Typical Words: ['algorithm', 'coauthor', 'consensus', 'cough', 'cryptograph', 'decentr', 'frt', 'infosec', 'privaci', 'surveil']
+Duplicate Count: 4
+
+Core Users: ['KLdivergence', 'TrooperSanders', 'aselbst', 'benzevgreen', 'wsisaac']
+Core Items: ['assess', 'deepen', 'dispar', 'equit', 'pinpoint']
+Most Typical Words: ['algorithm', 'assess', 'autonom', 'causal', 'dispar', 'equit', 'forthcom', 'intervent', 'keynot', 'selfdriv']
+Duplicate Count: 2
+
+Core Users: ['ShalitUri', 'StatModeling', 'alexdamour', 'edwardhkennedy', 'johnmyleswhite']
+Core Items: ['assumpt', 'causal', 'confound', 'regress', 'statist']
+Most Typical Words: ['assumpt', 'bw', 'causal', 'confound', 'identif', 'intervent', 'latent', 'postdoc', 'regress', 'variabl']
+Duplicate Count: 1
+

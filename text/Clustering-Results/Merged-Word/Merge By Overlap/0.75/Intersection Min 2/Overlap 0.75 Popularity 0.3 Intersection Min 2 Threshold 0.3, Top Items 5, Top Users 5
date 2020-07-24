@@ -1,0 +1,65 @@
+Core Users: ['berty38', 'david_sontag', 'hima_lakkaraju', 'irenetrampoline', 'zacharylipton']
+Core Items: ['character', 'mit', 'ml', 'subset', 'supervis']
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'debug', 'faculti', 'github', 'mit', 'ml', 'rl']
+Duplicate Count: 136
+
+Core Users: ['ShalitUri', 'alexdamour', 'angelamczhou', 'edwardhkennedy', 'logangraham']
+Core Items: ['causal', 'confound', 'identif', 'intervent', 'latent']
+Most Typical Words: ['algorithm', 'bw', 'causal', 'confound', 'identif', 'intervent', 'latent', 'ml', 'regress', 'variabl']
+Duplicate Count: 67
+
+Core Users: ['Aaroth', 'Miles_Brundage', 'SolomonMg', 'TedOnPrivacy', 'alexstamos', 'jackclarkSF', 'mikarv', 'moyix', 'rajiinio']
+Core Items: ['aggreg', 'api', 'backdoor', 'data', 'dataset', 'differenti', 'eg', 'malici', 'misus', 'presum', 'privaci', 'replic', 'rsa', 'scope']
+Most Typical Words: ['algorithm', 'binari', 'constraint', 'dataset', 'differenti', 'embed', 'github', 'intervent', 'keynot', 'privaci']
+Duplicate Count: 34
+
+Core Users: ['BrendaKLeong', 'EvanSelinger', 'SarahJamieLewis', 'alexstamos', 'math_rachel', 'nathanjurgenson', 'random_walker']
+Core Items: ['amplifi', 'biometr', 'browser', 'cryptograph', 'decentr', 'gmail', 'infosec', 'metric', 'privaci', 'surveil']
+Most Typical Words: ['algorithm', 'amplifi', 'cryptograph', 'frt', 'infosec', 'keynot', 'metric', 'privaci', 'skeptic', 'surveil']
+Duplicate Count: 25
+
+Core Users: ['KLdivergence', 'aselbst', 'benzevgreen', 'fermatslibrary', 'jefrankle', 'mbogen', 'melosare', 'octonion', 'sina_lana', 'thesasho', 'wsisaac']
+Core Items: ['assess', 'dispar', 'hypothesi', 'mathemat', 'polynomi']
+Most Typical Words: ['algorithm', 'assess', 'hypothesi', 'intersect', 'lotteri', 'mathemat', 'mathematician', 'prune', 'quantum', 'undergrad']
+Duplicate Count: 20
+
+Core Users: ['AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou']
+Core Items: ['gianni', 'jv', 'kyle', 'raptor', 'serg']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 7
+
+Core Users: ['ModeledBehavior', 'Susan_Athey', 'bencasselman', 'matthewstoller', 'poverty_action']
+Core Items: ['cps', 'dudley', 'econ', 'economist', 'monetari', 'recess', 'volatil']
+Most Typical Words: ['causal', 'econ', 'economist', 'ensembl', 'fryer', 'guido', 'intervent', 'postdoc', 'stanford', 'volatil']
+Duplicate Count: 7
+
+Core Users: ['AmirRosenfeld', 'JohnHolbein1', 'geomblog', 'haldaume3', 'hima_lakkaraju', 'julia_azari', 'maria__cuellar', 'maya_sen', 'natematias', 'nathanjurgenson', 'tyrell_turing']
+Core Items: ['alg', 'cough', 'faculti', 'metaphor', 'neuron', 'tenur']
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'debug', 'faculti', 'latent', 'mit', 'ml', 'tenur']
+Duplicate Count: 6
+
+Core Users: ['1vnzh', 'Aaroth', 'NicolasPapernot', 'PariAIML', 'SingularMattrix', 'SolomonMg', 'TedOnPrivacy', 'gokstudio', 'melosare', 'rctatman', 'thesasho', 'yoavgo']
+Core Items: ['api', 'cach', 'constraint', 'cpu', 'dataset', 'differenti', 'embed', 'github', 'hash', 'mathemat', 'nlp', 'polynomi', 'privaci', 'python', 'variabl']
+Most Typical Words: ['algorithm', 'dataset', 'differenti', 'embed', 'github', 'ml', 'postdoc', 'privaci', 'tracker', 'undergrad']
+Duplicate Count: 5
+
+Core Users: ['EgSophie', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['aipac', 'isra', 'jew', 'jewish', 'netanyahu', 'zionism', 'zionist']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'neonazi', 'netanyahu', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 4
+
+Core Users: ['1vnzh', 'Smerity', 'alexstamos', 'beenwrekt', 'halhod', 'mmitchell_ai', 'rajiinio', 'roydanroy', 'sarahcolq', 'tyrell_turing', 'variationalBAE', 'yisongyue']
+Core Items: ['api', 'cpu', 'ecosystem', 'misus', 'optim', 'scrape', 'sexism', 'tireless']
+Most Typical Words: ['alphagot', 'benchmark', 'metadropout', 'neal', 'rl', 'tupperwar', 'universitybrand', '𝚂𝙾𝚃𝙰', '𝚏𝚘𝚕𝚍𝚕𝚖𝚎𝚝𝚊', '𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐']
+Duplicate Count: 3
+
+Core Users: ['Susan_Athey', '_galyo', 'alexstamos', 'avicgoldfarb', 'kongaloosh', 'leilanigilpin', 'random_walker', 'tw_killian']
+Core Items: ['analytica', 'browser', 'fraction', 'phd', 'stanford']
+Most Typical Words: ['algorithm', 'considerationspro', 'crosscountri', 'fraction', 'mit', 'phd', 's6', 'solomon', 'storyen', 'xray']
+Duplicate Count: 1
+
+Core Users: ['CANADALAND', 'GraphicMatt', 'RonSoupprune', 'iamstripedhorse', 'jen_keesmaat', 'm_layton', 'wgrathwohl']
+Core Items: ['ontario', 'provinci', 'streetcar', 'transit', 'ttc']
+Most Typical Words: ['allosexuel', 'bay', 'councillor', 'framework', 'grindin', 'jeopardi', 'ontario', 'provinci', 'streetcar', 'ttc']
+Duplicate Count: 1
+

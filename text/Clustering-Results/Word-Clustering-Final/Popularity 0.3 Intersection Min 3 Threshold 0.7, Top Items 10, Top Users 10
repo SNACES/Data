@@ -1,0 +1,35 @@
+Core Users: ['EvanSelinger', 'GaryMarchant1', 'JohnHolbein1', 'SeanTrende', 'SolomonMg', 'angelamczhou', 'fhuszar', 'halhod', 'irenetrampoline', 'jennwvaughan', 'johnmyleswhite', 'julia_azari', 'leeclemnet', 'mattyglesias', 'maya_sen', 'mikarv', 'mrtz', 'natematias']
+Core Items: ['coauthor', 'forthcom', 'hoc', 'identif', 'intersect', 'intervent', 'mit', 'ml', 'partisan', 'privaci', 'skeptic', 'surveil', 'tenur', 'undergrad', 'variabl']
+Most Typical Words: ['algorithm', 'asu', 'causal', 'coauthor', 'forthcom', 'hah', 'intervent', 'mit', 'ml', 'tenur']
+Duplicate Count: 4
+
+Core Users: ['EvanSelinger', 'JohnHolbein1', 'ShalitUri', 'SolomonMg', 'StatModeling', 'Susan_Athey', 'alexdamour', 'angelamczhou', 'blancamiller_', 'edwardhkennedy', 'fhuszar', 'johnmyleswhite', 'maria__cuellar', 'natematias', 'packer_ben', 'poverty_action']
+Core Items: ['causal', 'hoc', 'identif', 'intervent', 'postdoc', 'privaci', 'sexism', 'surveil', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'confound', 'identif', 'intervent', 'latent', 'postdoc', 'regress', 'tenur', 'variabl']
+Duplicate Count: 2
+
+Core Users: ['AlecMacGillis', 'BrendaKLeong', 'BrendanNyhan', 'JohnHolbein1', 'MarzyehGhassemi', 'ModeledBehavior', 'NicolasPapernot', 'Richard_Florida', 'SarahJamieLewis', 'SeanTrende', 'SmithaMilli', 'SolomonMg', 'TedOnPrivacy', 'Yair_Rosenberg', 'adversariel', 'agstrait', 'alexstamos', 'aselbst', 'berty38', 'blancamiller_', 'elizabeth_joh', 'fhuszar', 'gokstudio', 'halhod', 'irenetrampoline', 'jennwvaughan', 'johnmyleswhite', 'judyhshen', 'julia_azari', 'karen_ec_levy', 'kdphd', 'leeclemnet', 'maria__cuellar', 'mattyglesias', 'maya_sen', 'melosare', 'mrtz', 'natematias', 'octonion', 'rajiinio', 'randal_olson', 'random_walker', 'roydanroy', 'thesasho', 'umangsbhatt', 'zacharylipton']
+Core Items: ['hoc', 'median', 'ml', 'overst', 'partisan', 'privaci', 'surveil', 'tenur', 'undergrad', 'variabl']
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'intervent', 'keynot', 'mit', 'ml', 'tenur', 'undergrad']
+Duplicate Count: 1
+
+Core Users: ['EvanSelinger', 'GaryMarchant1', 'JohnHolbein1', 'SeanTrende', 'ShalitUri', 'SolomonMg', 'alexdamour', 'angelamczhou', 'blancamiller_', 'david_sontag', 'fhuszar', 'halhod', 'johnmyleswhite', 'leeclemnet', 'maria__cuellar', 'mattyglesias', 'maya_sen', 'mikarv', 'mrtz', 'natematias', 'packer_ben', 'zittrain']
+Core Items: ['causal', 'forthcom', 'hoc', 'identif', 'intervent', 'mit', 'overst', 'partisan', 'privaci', 'selfdriv', 'sexism', 'skeptic', 'surveil', 'tenur', 'undergrad', 'variabl']
+Most Typical Words: ['algorithm', 'asu', 'causal', 'confound', 'identif', 'intervent', 'latent', 'mit', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ['EvanSelinger', 'GaryMarchant1', 'JohnHolbein1', 'SeanTrende', 'ShalitUri', 'SolomonMg', 'alexdamour', 'angelamczhou', 'edwardhkennedy', 'fhuszar', 'johnmyleswhite', 'julia_azari', 'maria__cuellar', 'mattyglesias', 'maya_sen', 'mikarv', 'mrtz', 'natematias', 'packer_ben']
+Core Items: ['causal', 'coauthor', 'forthcom', 'hoc', 'identif', 'intervent', 'partisan', 'sexism', 'skeptic', 'surveil', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'asu', 'causal', 'coauthor', 'confound', 'forthcom', 'identif', 'intervent', 'latent', 'tenur']
+Duplicate Count: 1
+
+Core Users: ['AINowInstitute', 'BKCHarvard', 'SussilloDavid', 'TedOnPrivacy', 'adversariel', 'agstrait', 'aselbst', 'berty38', 'blancamiller_', 'fhuszar', 'irenetrampoline', 'jennwvaughan', 'judyhshen', 'katecrawford', 'kdphd', 'maria__cuellar', 'maya_sen', 'mrtz', 'natematias', 'rajiinio', 'random_walker', 'roydanroy', 'thesasho', 'zacharylipton']
+Core Items: ['algorithm', 'intersect', 'mit', 'ml', 'partisan', 'postdoc', 'privaci', 'tenur', 'undergrad', 'variabl']
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'intersect', 'mit', 'ml', 'postdoc', 'tenur', 'undergrad']
+Duplicate Count: 1
+
+Core Users: ['AINowInstitute', 'BKCHarvard', 'BrendaKLeong', 'EvanSelinger', 'GaryMarchant1', 'JohnHolbein1', 'SarahJamieLewis', 'SolomonMg', 'SussilloDavid', 'TedOnPrivacy', 'YBenkler', 'adversariel', 'agstrait', 'angelamczhou', 'aselbst', 'berty38', 'blancamiller_', 'databoydg', 'elizabeth_joh', 'fhuszar', 'halhod', 'irenetrampoline', 'jennwvaughan', 'judyhshen', 'julia_azari', 'katecrawford', 'kdphd', 'leeclemnet', 'maria__cuellar', 'mikarv', 'mrtz', 'natematias', 'poverty_action', 'rajiinio', 'random_walker', 'roydanroy', 'thesasho', 'zacharylipton', 'zeynep']
+Core Items: ['algorithm', 'coauthor', 'identif', 'intersect', 'intervent', 'mit', 'ml', 'overst', 'partisan', 'postdoc', 'privaci', 'surveil', 'tenur', 'undergrad', 'variabl']
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'dataset', 'intervent', 'mit', 'ml', 'postdoc', 'tenur', 'undergrad']
+Duplicate Count: 1
+

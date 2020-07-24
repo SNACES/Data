@@ -1,0 +1,55 @@
+Core Users: ['EvanSelinger', 'FrankPasquale', 'benzevgreen', 'j2bryson', 'mark_riedl', 'math_rachel', 'mikarv', 'mmitchell_ai', 'ndiakopoulos', 'supergovernance', 'wsisaac']
+Core Items: ['ai', 'algorithm', 'assess', 'autom', 'autonom', 'biometr', 'cc', 'contextu', 'data', 'ethic', 'forthcom', 'keynot', 'recognit', 'scrape', 'selfdriv', 'surveil']
+Most Typical Words: ['algorithm', 'assess', 'autom', 'autonom', 'intervent', 'keynot', 'ml', 'selfdriv', 'sexism', 'surveil']
+Duplicate Count: 26
+
+Core Users: ['BrendaKLeong', 'EvanSelinger', 'FrankPasquale', 'WillOremus', 'alexstamos', 'math_rachel', 'mikarv', 'mikekimbackward', 'nathanjurgenson', 'random_walker', 'zeynep']
+Core Items: ['amplifi', 'analytica', 'attribut', 'autom', 'biometr', 'browser', 'clickbait', 'conceptu', 'data', 'discours', 'gmail', 'hash', 'hypothet', 'metric', 'privaci', 'scrape', 'silicon', 'surveil', 'tos']
+Most Typical Words: ['abbrevi', 'algorithm', 'amplifi', 'keynot', 'metric', 'privaci', 'quantum', 'subset', 'surveil', 'variabl']
+Duplicate Count: 23
+
+Core Users: ['KLdivergence', 'Miles_Brundage', 'benzevgreen', 'jackclarkSF', 'mark_riedl', 'math_rachel', 'mmitchell_ai', 'nathanjurgenson', 'packer_ben', 'rajiinio']
+Core Items: ['ai', 'algorithm', 'altogeth', 'amplifi', 'assess', 'attribut', 'broader', 'character', 'congest', 'constraint', 'dataset', 'detector', 'dispar', 'eg', 'ethic', 'forprofit', 'inher', 'keynot', 'kissing', 'malici', 'metric', 'misus', 'nlp', 'output', 'recognit', 'roi', 'scrape', 'selfdriv', 'sexism', 'skeptic', 'societ', 'subset', 'ture', 'writeup']
+Most Typical Words: ['algorithm', 'assess', 'causal', 'dataset', 'keynot', 'metric', 'ml', 'parol', 'sexism', 'skeptic']
+Duplicate Count: 11
+
+Core Users: ['KLdivergence', 'alexdamour', 'angelamczhou', 'benzevgreen', 'fermatslibrary', 'geomblog', 'maria__cuellar', 'packer_ben', 'roydanroy', 'supergovernance', 'thesasho']
+Core Items: ['altogeth', 'approxim', 'assess', 'binari', 'classif', 'confound', 'congest', 'constraint', 'deriv', 'detector', 'dispar', 'eager', 'ethic', 'exponenti', 'hypothesi', 'identif', 'kissing', 'latent', 'mathemat', 'mathematician', 'nuanc', 'preprint', 'quantum', 'sphere', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'approxim', 'assess', 'causal', 'confound', 'detector', 'identif', 'latent', 'tenur', 'variabl']
+Duplicate Count: 5
+
+Core Users: ['OsitaNwanevu', 'Yair_Rosenberg', 'aselbst', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'dril', 'jessesingal', 'julia_azari', 'maya_sen']
+Core Items: ['backlash', 'bret', 'cabl', 'delaney', 'discours', 'earnest', 'emphas', 'hebrew', 'hog', 'influenti', 'interrog', 'jill', 'newslett', 'partisan', 'promin', 'straightforward', 'substant', 'tenur', 'yale']
+Most Typical Words: ['bret', 'coauthor', 'delaney', 'discours', 'forthcom', 'hog', 'netanyahu', 'partisan', 'pod', 'tenur']
+Duplicate Count: 1
+
+Core Users: ['JohnHolbein1', 'KLdivergence', 'Susan_Athey', 'Undercoverhist', 'alexdamour', 'angelamczhou', 'causalinf', 'logangraham', 'maya_sen', 'natematias']
+Core Items: ['aggreg', 'approxim', 'assumpt', 'binari', 'bw', 'capita', 'causal', 'cluster', 'coauthor', 'detector', 'dmv', 'econ', 'economist', 'faculti', 'forthcom', 'hypothesi', 'identif', 'influenti', 'intervent', 'latent', 'manuscript', 'preval', 'replic', 'sociolog', 'tenur', 'variabl']
+Most Typical Words: ['algorithm', 'bw', 'causal', 'confound', 'econ', 'identif', 'intervent', 'latent', 'tenur', 'variabl']
+Duplicate Count: 1
+
+Core Users: ['FrankPasquale', 'JohnHolbein1', 'Susan_Athey', 'benzevgreen', 'leah_boustan', 'matthewstoller', 'maya_sen', 'natematias', 'timoreilly', 'zeynep']
+Core Items: ['1970s', 'algorithm', 'astonish', 'backlash', 'broader', 'cluster', 'coauthor', 'conceptu', 'deregul', 'econ', 'economist', 'faculti', 'forthcom', 'hah', 'hypothesi', 'identif', 'inequ', 'intervent', 'kissing', 'manuscript', 'migrat', 'monopoli', 'neoliber', 'ponder', 'preval', 'replic', 'selfdriv', 'sensor', 'silicon', 'sociolog', 'surveil', 'tenur', 'thinker', 'writeup']
+Most Typical Words: ['algorithm', 'causal', 'coauthor', 'econ', 'economist', 'forthcom', 'identif', 'intervent', 'postdoc', 'tenur']
+Duplicate Count: 1
+
+Core Users: ['Susan_Athey', 'Undercoverhist', 'annakoop', 'berty38', 'kongaloosh', 'leah_boustan', 'leeclemnet', 'megberetta', 'melosare', 'poverty_action']
+Core Items: ['1970s', 'admiss', 'clarifi', 'classif', 'coauthor', 'econ', 'economist', 'edmonton', 'fellowship', 'grad', 'grandfath', 'impost', 'mathemat', 'migrat', 'nip', 'oxford', 'phd', 'replic', 'robot', 'supervis', 'undergrad']
+Most Typical Words: ['admiss', 'algorithm', 'causal', 'econ', 'economist', 'intervent', 'ml', 'rl', 'tenur', 'undergrad']
+Duplicate Count: 1
+
+Core Users: ['FrankPasquale', 'OsitaNwanevu', 'Undercoverhist', 'WillOremus', 'ezraklein', 'halhod', 'matthewstoller', 'nathanjurgenson', 'timoreilly', 'zeynep']
+Core Items: ['1970s', 'amplifi', 'backlash', 'blacklist', 'cabl', 'conceptu', 'consensus', 'defer', 'delaney', 'deregul', 'discours', 'earnest', 'economist', 'ecosystem', 'emphas', 'entrench', 'gmail', 'hah', 'inequ', 'influenti', 'metric', 'monopoli', 'neoliber', 'nich', 'reconcili', 'refram', 'sensor', 'silicon', 'straightforward', 'surveil', 'thinker']
+Most Typical Words: ['algorithm', 'amplifi', 'discours', 'econ', 'economist', 'friedman', 'keynot', 'macro', 'metric', 'neoliber']
+Duplicate Count: 1
+
+Core Users: ['AndrewDBailey', 'AnnaJaneSmith4', 'NBA_Math', 'ZachLowe_NBA', 'dhackett1565', 'ekoreen', 'geomblog', 'joey_doubleyou', 'william_lou', 'wtevs']
+Core Items: ['foul', 'fred', 'gianni', 'jv', 'klay', 'norm', 'pascal', 'playoff', 'raptor', 'rebound', 'rotat', 'serg', 'steph', 'turnov', 'utah']
+Most Typical Words: ['andr', 'blk', 'gianni', 'jv', 'pascal', 'pelican', 'raptor', 'rebound', 'serg', 'stl']
+Duplicate Count: 1
+
+Core Users: ['3r1nG', 'EgSophie', 'JesseBrown', 'KT_So_It_Goes', 'Yair_Rosenberg', 'jstreetdotorg', 'liannapisani', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['astonish', 'backfir', 'bret', 'conspiraci', 'fulltim', 'gaza', 'hebrew', 'ht', 'influenti', 'intersect', 'irrespons', 'isaac', 'isra', 'jerusalem', 'jew', 'jill', 'malici', 'menac', 'migrat', 'misrepres', 'nationalist', 'neonazi', 'netanyahu', 'org', 'retract', 'shabbat']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'netanyahu', 'roundup', 'shabbat', 'zionism', 'zionist']
+Duplicate Count: 1
+

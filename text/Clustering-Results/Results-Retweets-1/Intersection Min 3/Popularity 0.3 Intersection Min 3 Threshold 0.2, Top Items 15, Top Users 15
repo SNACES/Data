@@ -1,0 +1,260 @@
+Core Users: ('AINowInstitute', 'AkiyoshiKitaoka', 'AndrewDBailey', 'EthanFetaya', 'IanGormely', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'ModeledBehavior', 'SarahJamieLewis', 'ShalitUri', 'SmithaMilli', 'SolomonMg', 'Susan_Athey', 'Undercoverhist', '_asubbaswamy', 'alexdamour', 'benzevgreen', 'berty38', 'carrasqu', 'ceh0', 'david_sontag', 'edwardhkennedy', 'ermgrant', 'hannawallach', 'irenetrampoline', 'j2bryson', 'jake_snell', 'jennwvaughan', 'judyhshen', 'karen_ec_levy', 'kongaloosh', 'leeclemnet', 'm_sendhil', 'maria__cuellar', 'mikekimbackward', 'osageev', 'poverty_action', 'propublica', 'randal_olson', 'realnamepolicy', 'suchisaria', 'taltheturtle', 'thesasho', 'timoreilly', 'umangsbhatt', 'yisongyue')
+Core Items: ('Aaroth', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'ShalitUri', '_asubbaswamy', 'angelamczhou', 'audurand', 'avicgoldfarb', 'david_sontag', 'elanazeide', 'haldaume3', 'osageev', 'sdbioin', 'suchisaria')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'decompos', 'invari', 'mit', 'ml', 'quantum', 'rl', 'stl']
+Duplicate Count: 35
+
+Core Users: ('1vnzh', 'A_Aspuru_Guzik', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'adversariel', 'amlankar95', 'catherineols', 'geoffroeder', 'ghadfield', 'gokstudio', 'halhod', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'moyix', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'aivillage_dc', 'aliceysu', 'amlankar95', 'catherineols', 'geoffroeder', 'gokstudio', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 27
+
+Core Users: ('BrendaKLeong', 'FrankPasquale', 'RandomlyWalking', 'SmithaMilli', 'TrooperSanders', '_asubbaswamy', 'chloepouprom', 'databoydg', 'hannawallach', 'judywawira', 'karen_ec_levy', 'kdphd', 'leah_boustan', 'negar_rz', 'tw_killian')
+Core Items: ('AINowInstitute', 'EvanSelinger', 'ShannonVallor', 'agstrait', 'angelamczhou', 'aselbst', 'ceh0', 'jennwvaughan', 'mariadearteaga', 'math_rachel', 'mbogen', 'mmitchell_ai', 'packer_ben', 'yisongyue', 'zacharylipton')
+Most Typical Words: ['algorithm', 'dataset', 'df', 'dreeeeeeaaaam', 'embed', 'invari', 'latent', 'redistrict', 'semant', 'tdr']
+Duplicate Count: 17
+
+Core Users: ('A_Aspuru_Guzik', 'CausalKathy', 'EthanFetaya', 'GhorbaniAmirata', 'IanGormely', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'ModeledBehavior', 'ShalitUri', 'SoloGen', 'Susan_Athey', '_asubbaswamy', 'carrasqu', 'david_sontag', 'hima_lakkaraju', 'irenetrampoline', 'jake_snell', 'julius_adebayo', 'm_sendhil', 'melosare', 'michaelrzhang', 'mtesfald', 'octonion', 'osageev', 'roydanroy', 'suchisaria', 'taltheturtle', 'tdietterich', 'tw_killian', 'zacharylipton')
+Core Items: ('JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'ShalitUri', 'SoloGen', '_asubbaswamy', 'avicgoldfarb', 'beenwrekt', 'carrasqu', 'hima_lakkaraju', 'jake_snell', 'julius_adebayo', 'osageev', 'roydanroy', 'suchisaria', 'thesasho', 'umangsbhatt', 'yoavgo')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'debug', 'decompos', 'invari', 'mit', 'ml', 'quantum', 'rl']
+Duplicate Count: 11
+
+Core Users: ('1vnzh', 'A_Aspuru_Guzik', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'aivillage_dc', 'aliceysu', 'amlankar95', 'catherineols', 'geoffroeder', 'gokstudio', 'halhod', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'moyix', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'adversariel', 'aliceysu', 'amlankar95', 'geoffroeder', 'ghadfield', 'gokstudio', 'halhod', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'moyix', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 6
+
+Core Users: ('AkiyoshiKitaoka', 'DavidDuvenaud', 'JensBehrmann', 'MarzyehGhassemi', 'Smerity', 'SoloGen', 'carrasqu', 'gokstudio', 'hardmaru', 'jake_snell', 'jessebett', 'jh_jacobsen', 'melosare', 'osageev', 'wgrathwohl')
+Core Items: ('AmirRosenfeld', 'DavidDuvenaud', 'GhorbaniAmirata', 'IanGormely', 'JensBehrmann', 'MarzyehGhassemi', 'SingularMattrix', 'SussilloDavid', 'carrasqu', 'hima_lakkaraju', 'jh_jacobsen', 'osageev', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'quantum', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 5
+
+Core Users: ('DavidDuvenaud', 'EthanFetaya', 'JensBehrmann', 'Mo_Fad3l', 'Samake_A21', 'amlankar95', 'dramemariama20', 'fhuszar', 'jake_snell', 'jessebett', 'jh_jacobsen', 'ltondji', 'lxuechen', 'panfordkobby', 'wgrathwohl')
+Core Items: ('DavidDuvenaud', 'EthanFetaya', 'JensBehrmann', 'Mo_Fad3l', 'Samake_A21', 'amlankar95', 'dramemariama20', 'fhuszar', 'jake_snell', 'jessebett', 'jh_jacobsen', 'ltondji', 'lxuechen', 'panfordkobby', 'wgrathwohl')
+Most Typical Words: ['anwendungen', 'awa', 'euch', 'für', 'industriellen', 'kobbi', 'mathematik', 'meldet', 'technomathematik', 'zentrum']
+Duplicate Count: 5
+
+Core Users: ('BrendanNyhan', 'DoctorVive', 'GeoffreySupran', 'JohnHolbein1', 'MichaelSLinden', 'ModeledBehavior', 'OsitaNwanevu', 'SolomonMg', 'Susan_Athey', 'Undercoverhist', 'WillOremus', 'avicgoldfarb', 'bencasselman', 'causalinf', 'edwardhkennedy', 'gelliottmorris', 'jessesingal', 'johnmyleswhite', 'maria__cuellar', 'maya_sen', 'poverty_action', 'propublica')
+Core Items: ('AlecMacGillis', 'BrendanNyhan', 'DoctorVive', 'GeoffreySupran', 'JohnHolbein1', 'MichaelSLinden', 'ModeledBehavior', 'SolomonMg', 'Susan_Athey', 'Undercoverhist', 'aprilaser', 'avicgoldfarb', 'bencasselman', 'causalinf', 'edwardhkennedy', 'gelliottmorris', 'jessesingal', 'johnmyleswhite', 'maria__cuellar', 'maya_sen', 'poverty_action')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'econ', 'economist', 'identif', 'intervent', 'phd', 'regress', 'tenur']
+Duplicate Count: 5
+
+Core Users: ('BKCHarvard', 'BrendaKLeong', 'EvanSelinger', 'ShannonVallor', 'WillOremus', 'YBenkler', 'agstrait', 'aselbst', 'jasonmillar', 'jefrankle', 'linamkhan', 'mbogen', 'supergovernance', 'timoreilly', 'zittrain')
+Core Items: ('BKCHarvard', 'BrendaKLeong', 'ContraPoints', 'EvanSelinger', 'FrankPasquale', 'YBenkler', 'alexstamos', 'aprilaser', 'aselbst', 'halhod', 'harvard_data', 'jasonmillar', 'jefrankle', 'linamkhan', 'megberetta', 'supergovernance', 'timoreilly', 'zeynep')
+Most Typical Words: ['algorithm', 'autonom', 'fellowship', 'forthcom', 'hypothesi', 'intersect', 'intervent', 'lotteri', 'prune', 'railroad']
+Duplicate Count: 4
+
+Core Users: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'DavidDuvenaud', 'GeoffRockwell', 'GretchenAMcC', 'JensBehrmann', 'SingularMattrix', 'Smerity', 'SussilloDavid', '_galyo', 'beenwrekt', 'carrasqu', 'geoffroeder', 'gokstudio', 'hardmaru', 'jen_keesmaat', 'jessebett', 'jh_jacobsen', 'lxuechen', 'melosare', 'moyix', 'riakall', 'roydanroy', 'thesasho', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AidanNGomez', 'AmirRosenfeld', 'DavidDuvenaud', 'GhorbaniAmirata', 'JensBehrmann', 'SingularMattrix', 'SussilloDavid', 'amlankar95', 'beenwrekt', 'geoffroeder', 'gokstudio', 'jessebett', 'jh_jacobsen', 'lxuechen', 'moyix', 'octonion', 'osageev', 'riakall', 'roydanroy', 'sina_lana', 'thesasho', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'quantum', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 4
+
+Core Users: ('A_Aspuru_Guzik', 'AkiyoshiKitaoka', 'AndrewDBailey', 'EthanFetaya', 'IanGormely', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'ShalitUri', 'SolomonMg', '_asubbaswamy', 'carrasqu', 'david_sontag', 'irenetrampoline', 'jake_snell', 'kongaloosh', 'michaelrzhang', 'octonion', 'randal_olson', 'realnamepolicy', 'suchisaria', 'taltheturtle', 'tdietterich', 'thesasho', 'tw_killian', 'zacharylipton')
+Core Items: ('JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'ShalitUri', '_asubbaswamy', 'david_sontag', 'jake_snell', 'osageev', 'random_walker', 'roydanroy', 'sdbioin', 'suchisaria', 'timhwang', 'umangsbhatt', 'yoavgo')
+Most Typical Words: ['algorithm', 'basketballcraz', 'causal', 'dataset', 'decompos', 'invari', 'ml', 'quantum', 'rl', 'stl']
+Duplicate Count: 3
+
+Core Users: ('FrankPasquale', 'JFutoma', 'MichaelOberst', 'RandomlyWalking', 'ShalitUri', 'SmithaMilli', 'TrooperSanders', '_asubbaswamy', 'audurand', 'berty38', 'chloepouprom', 'databoydg', 'david_sontag', 'haldaume3', 'hannawallach', 'irenetrampoline', 'judywawira', 'karen_ec_levy', 'kdphd', 'kongaloosh', 'leah_boustan', 'mikekimbackward', 'negar_rz', 'randal_olson', 'realnamepolicy', 'taltheturtle', 'tw_killian', 'umangsbhatt', 'yoavgo', 'zacharylipton')
+Core Items: ('AINowInstitute', 'EvanSelinger', 'JFutoma', 'MichaelOberst', 'ShalitUri', 'ShannonVallor', 'aerinykim', 'alexdamour', 'angelamczhou', 'aselbst', 'audurand', 'ceh0', 'databoydg', 'david_sontag', 'ermgrant', 'haldaume3', 'irenetrampoline', 'jennwvaughan', 'leeclemnet', 'leilanigilpin', 'math_rachel', 'mbogen', 'mmitchell_ai', 'packer_ben', 'random_walker', 'sdbioin', 'suchisaria', 'tdietterich', 'timhwang', 'umangsbhatt', 'yisongyue', 'yoavgo', 'zacharylipton')
+Most Typical Words: ['algorithm', 'basketballcraz', 'causal', 'dataset', 'decompos', 'gumbelmax', 'mitzvad', 'ml', 'nav', 'rl']
+Duplicate Count: 3
+
+Core Users: ('AINowInstitute', 'Aaroth', 'CausalKathy', 'EthanFetaya', 'IanGormely', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'SarahJamieLewis', 'ShalitUri', 'SmithaMilli', 'Susan_Athey', 'Undercoverhist', '_asubbaswamy', 'alexdamour', 'benzevgreen', 'berty38', 'carrasqu', 'ceh0', 'david_sontag', 'edwardhkennedy', 'ermgrant', 'hannawallach', 'irenetrampoline', 'j2bryson', 'jake_snell', 'jennwvaughan', 'johnmyleswhite', 'judyhshen', 'karen_ec_levy', 'kongaloosh', 'leeclemnet', 'm_sendhil', 'mapotato', 'maria__cuellar', 'mikekimbackward', 'nathanjurgenson', 'osageev', 'poverty_action', 'propublica', 'sdbioin', 'suchisaria', 'taltheturtle', 'thesasho', 'timhwang', 'timoreilly', 'tw_killian', 'umangsbhatt', 'yisongyue')
+Core Items: ('Aaroth', 'IanGormely', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'ShalitUri', '_asubbaswamy', 'angelamczhou', 'audurand', 'david_sontag', 'elanazeide', 'haldaume3', 'maria__cuellar', 'osageev', 'realnamepolicy')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'decompos', 'invari', 'keynot', 'mit', 'ml', 'quantum', 'rl']
+Duplicate Count: 3
+
+Core Users: ('A_Aspuru_Guzik', 'AidanNGomez', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'SingularMattrix', 'Smerity', 'aivillage_dc', 'beenwrekt', 'catherineols', 'geoffroeder', 'gokstudio', 'hardmaru', 'j_asminewang', 'jessebett', 'jh_jacobsen', 'moyix', 'riakall', 'thesasho', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'SussilloDavid', '_galyo', 'adversariel', 'amlankar95', 'beenwrekt', 'geoffroeder', 'gokstudio', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'lxuechen', 'moyix', 'randal_olson', 'riakall', 'roydanroy', 'sina_lana', 'thesasho', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 3
+
+Core Users: ('DavidDuvenaud', 'EthanFetaya', 'JensBehrmann', 'MarzyehGhassemi', 'Mo_Fad3l', 'Samake_A21', 'carrasqu', 'dramemariama20', 'fhuszar', 'jake_snell', 'jh_jacobsen', 'ltondji', 'lxuechen', 'osageev', 'panfordkobby', 'wgrathwohl')
+Core Items: ('DavidDuvenaud', 'EthanFetaya', 'JensBehrmann', 'MarzyehGhassemi', 'Mo_Fad3l', 'Samake_A21', 'carrasqu', 'dramemariama20', 'fhuszar', 'jake_snell', 'jh_jacobsen', 'ltondji', 'lxuechen', 'osageev', 'panfordkobby', 'wgrathwohl')
+Most Typical Words: ['anwendungen', 'awa', 'euch', 'für', 'industriellen', 'kobbi', 'mathematik', 'meldet', 'quantum', 'zentrum']
+Duplicate Count: 3
+
+Core Users: ('3r1nG', 'EgSophie', 'KT_So_It_Goes', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'RespectableLaw', 'SarahTaber_bww', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'madbev14', 'peltzmadeline', 'vanillatary', 'willsommer')
+Core Items: ('EgSophie', 'KT_So_It_Goes', 'LisPower1', 'MattGertz', 'RespectableLaw', 'SarahTaber_bww', 'SeanMcElwee', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'ggreenwald', 'madbev14', 'peltzmadeline', 'vanillatary', 'willsommer')
+Most Typical Words: ['bret', 'cabl', 'hanniti', 'hog', 'infowar', 'neonazi', 'retract', 'terf', 'tfw', 'tucker']
+Duplicate Count: 3
+
+Core Users: ('BKCHarvard', 'EvanSelinger', 'ShannonVallor', 'WillOremus', 'YBenkler', 'agstrait', 'aselbst', 'jasonmillar', 'liannapisani', 'linamkhan', 'mbogen', 'megberetta', 'supergovernance', 'timoreilly', 'zittrain')
+Core Items: ('BKCHarvard', 'BrendaKLeong', 'FrankPasquale', 'SarahJamieLewis', 'YBenkler', 'alexstamos', 'aprilaser', 'halhod', 'harvard_data', 'jasonmillar', 'jefrankle', 'megberetta', 'natematias', 'supergovernance', 'timoreilly')
+Most Typical Words: ['algorithm', 'autonom', 'coauthor', 'fellowship', 'forthcom', 'intersect', 'intervent', 'partisan', 'railroad', 'selfdriv']
+Duplicate Count: 2
+
+Core Users: ('BKCHarvard', 'BrendaKLeong', 'EvanSelinger', 'JuliaAngwin', 'ShannonVallor', 'WillOremus', 'YBenkler', 'agstrait', 'aprilaser', 'aselbst', 'jasonmillar', 'jefrankle', 'linamkhan', 'mbogen', 'megberetta', 'timoreilly', 'zeynep', 'zittrain')
+Core Items: ('BKCHarvard', 'BrendaKLeong', 'ContraPoints', 'EvanSelinger', 'FrankPasquale', 'SarahJamieLewis', 'WillOremus', 'YBenkler', 'agstrait', 'alexstamos', 'aprilaser', 'aselbst', 'harvard_data', 'jasonmillar', 'jefrankle', 'liannapisani', 'linamkhan', 'natematias', 'supergovernance', 'zeynep')
+Most Typical Words: ['algorithm', 'autonom', 'fellowship', 'forthcom', 'hypothesi', 'intersect', 'intervent', 'prune', 'railroad', 'selfdriv']
+Duplicate Count: 2
+
+Core Users: ('BKCHarvard', 'BrendaKLeong', 'EvanSelinger', 'JuliaAngwin', 'ShannonVallor', 'WillOremus', 'YBenkler', 'agstrait', 'alexstamos', 'aselbst', 'harvard_data', 'jasonmillar', 'jefrankle', 'liannapisani', 'linamkhan', 'mbogen', 'natematias', 'supergovernance', 'timoreilly', 'zeynep', 'zittrain')
+Core Items: ('BKCHarvard', 'BrendaKLeong', 'ContraPoints', 'EvanSelinger', 'FrankPasquale', 'JuliaAngwin', 'YBenkler', 'alexstamos', 'aprilaser', 'aselbst', 'halhod', 'harvard_data', 'jasonmillar', 'jefrankle', 'linamkhan', 'mathbabedotorg', 'megberetta', 'natematias', 'ndiakopoulos', 'supergovernance', 'timoreilly', 'zeynep', 'zittrain')
+Most Typical Words: ['algorithm', 'autonom', 'fellowship', 'forthcom', 'hypothesi', 'intersect', 'intervent', 'maxwel', 'prune', 'railroad']
+Duplicate Count: 2
+
+Core Users: ('AINowInstitute', 'BrendaKLeong', 'EthanFetaya', 'FrankPasquale', 'GhorbaniAmirata', 'IanGormely', 'JuliaAngwin', 'LorenRaeDeJ', 'MarzyehGhassemi', 'MattGertz', 'MichaelOberst', 'SarahJamieLewis', 'ShalitUri', 'SirrahChan', 'SoloGen', 'Susan_Athey', 'Undercoverhist', 'YBenkler', '_asubbaswamy', 'alexdamour', 'alexstamos', 'benzevgreen', 'berty38', 'carrasqu', 'ceh0', 'edwardhkennedy', 'ermgrant', 'ghadfield', 'hannawallach', 'irenetrampoline', 'j2bryson', 'jake_snell', 'jefrankle', 'jennwvaughan', 'judyhshen', 'karen_ec_levy', 'kongaloosh', 'leah_boustan', 'leeclemnet', 'leilanigilpin', 'm_sendhil', 'mapotato', 'maria__cuellar', 'mbogen', 'mchlglry', 'mikekimbackward', 'mtesfald', 'osageev', 'poverty_action', 'propublica', 'qjurecic', 'roydanroy', 'tabletmag', 'taltheturtle', 'tdietterich', 'thesasho', 'timoreilly', 'tw_killian', 'umangsbhatt', 'yisongyue', 'zeynep', 'zittrain')
+Core Items: ('AINowInstitute', 'Aaroth', 'ContraPoints', 'EvanSelinger', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'TrooperSanders', 'alexstamos', 'angelamczhou', 'aselbst', 'audurand', 'carrasqu', 'david_sontag', 'elanazeide', 'haldaume3', 'linamkhan', 'michaelrzhang', 'osageev', 'suchisaria')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'decompos', 'invari', 'keynot', 'mit', 'ml', 'quantum', 'rl']
+Duplicate Count: 2
+
+Core Users: ('A_Aspuru_Guzik', 'AmirRosenfeld', 'DavidDuvenaud', 'GhorbaniAmirata', 'IanGormely', 'JensBehrmann', 'MarzyehGhassemi', 'Richard_Florida', 'SingularMattrix', 'carrasqu', 'geoffroeder', 'jen_keesmaat', 'jh_jacobsen', 'mchlglry', 'octonion', 'osageev', 'roydanroy', 'sina_lana', 'thesasho', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AkiyoshiKitaoka', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'MarzyehGhassemi', 'Smerity', 'carrasqu', 'gokstudio', 'hardmaru', 'jake_snell', 'jen_keesmaat', 'jessebett', 'jh_jacobsen', 'lxuechen', 'm_layton', 'osageev', 'roydanroy', 'thesasho', 'wgrathwohl')
+Most Typical Words: ['anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'quantum', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 2
+
+Core Users: ('A_Aspuru_Guzik', 'AmirRosenfeld', 'DavidDuvenaud', 'EthanFetaya', 'IanGormely', 'JensBehrmann', 'Mo_Fad3l', 'Samake_A21', 'SingularMattrix', 'SussilloDavid', 'amlankar95', 'carrasqu', 'dramemariama20', 'fhuszar', 'jake_snell', 'jessebett', 'jh_jacobsen', 'ltondji', 'moyix', 'octonion', 'panfordkobby', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('AkiyoshiKitaoka', 'DavidDuvenaud', 'EthanFetaya', 'JensBehrmann', 'Mo_Fad3l', 'Samake_A21', 'Smerity', 'dramemariama20', 'geoffroeder', 'gokstudio', 'hardmaru', 'jake_snell', 'jen_keesmaat', 'jessebett', 'jh_jacobsen', 'ltondji', 'lxuechen', 'melosare', 'osageev', 'panfordkobby', 'roydanroy', 'wgrathwohl')
+Most Typical Words: ['anwendungen', 'awa', 'euch', 'für', 'industriellen', 'kobbi', 'mathematik', 'meldet', 'quantum', 'zentrum']
+Duplicate Count: 2
+
+Core Users: ('BKCHarvard', 'ContraPoints', 'EvanSelinger', 'FrankPasquale', 'JuliaAngwin', 'ShannonVallor', 'WillOremus', 'YBenkler', 'agstrait', 'alexstamos', 'aprilaser', 'aselbst', 'harvard_data', 'jasonmillar', 'jefrankle', 'leilanigilpin', 'liannapisani', 'linamkhan', 'mapotato', 'mbogen', 'megberetta', 'natematias', 'supergovernance', 'tdietterich', 'timoreilly', 'zeynep', 'zittrain')
+Core Items: ('BKCHarvard', 'BrendaKLeong', 'FrankPasquale', 'JuliaAngwin', 'SarahJamieLewis', 'TrooperSanders', 'WillOremus', 'YBenkler', 'agstrait', 'alexstamos', 'aprilaser', 'aselbst', 'halhod', 'harvard_data', 'j2bryson', 'jasonmillar', 'jefrankle', 'linamkhan', 'mathbabedotorg', 'mbogen', 'megberetta', 'natematias', 'ndiakopoulos', 'supergovernance', 'timoreilly', 'zeynep', 'zittrain')
+Most Typical Words: ['535lbs', 'algorithm', 'autonom', 'collos', 'devsdesignerswhich', 'hahh', 'intervent', 'migrat', 'mit', 'prune']
+Duplicate Count: 2
+
+Core Users: ('AINowInstitute', 'EvanSelinger', 'ShannonVallor', 'agstrait', 'angelamczhou', 'aselbst', 'ceh0', 'jennwvaughan', 'mariadearteaga', 'math_rachel', 'mbogen', 'mmitchell_ai', 'packer_ben', 'yisongyue', 'zacharylipton')
+Core Items: ('BrendaKLeong', 'FrankPasquale', 'RandomlyWalking', 'SmithaMilli', 'TrooperSanders', '_asubbaswamy', 'chloepouprom', 'databoydg', 'hannawallach', 'judywawira', 'karen_ec_levy', 'kdphd', 'leah_boustan', 'negar_rz', 'tw_killian')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'embed', 'intersect', 'keynot', 'ml', 'postdoc', 'semant', 'sexism']
+Duplicate Count: 2
+
+Core Users: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'adversariel', 'aivillage_dc', 'amlankar95', 'geoffroeder', 'ghadfield', 'gokstudio', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'moyix', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'adversariel', 'aivillage_dc', 'amlankar95', 'geoffroeder', 'ghadfield', 'gokstudio', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'moyix', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 2
+
+Core Users: ('AINowInstitute', 'GhorbaniAmirata', 'PariAIML', 'RandomlyWalking', 'aerinykim', 'aivillage_dc', 'angelamczhou', 'audurand', 'carrasqu', 'databoydg', 'edwardhkennedy', 'ermgrant', 'haldaume3', 'hannawallach', 'harvard_data', 'irenetrampoline', 'jennwvaughan', 'judyhshen', 'kongaloosh', 'kswersk', 'leeclemnet', 'mariadearteaga', 'math_rachel', 'michaelrzhang', 'mikekimbackward', 'mmitchell_ai', 'mtesfald', 'negar_rz', 'realnamepolicy', 'yisongyue', 'zacharylipton')
+Core Items: ('NicolasPapernot', 'PariAIML', 'RandomlyWalking', 'SirrahChan', 'alexdamour', 'audurand', 'chloepouprom', 'haldaume3', 'hannawallach', 'judywawira', 'mariadearteaga', 'mtesfald', 'negar_rz', 'umangsbhatt', 'yoavgo')
+Most Typical Words: ['a2c', 'advantageactorcrit', 'algorithm', 'embed', 'isca', 'ml', 'quantum', 'ranganathan', 'rl', 'rshowerthought']
+Duplicate Count: 2
+
+Core Users: ('3r1nG', 'EgSophie', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'RespectableLaw', 'SarahTaber_bww', 'SeanMcElwee', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'ggreenwald', 'julia_azari', 'matthewstoller', 'peltzmadeline', 'vanillatary', 'willsommer')
+Core Items: ('3r1nG', 'EgSophie', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'RespectableLaw', 'SarahTaber_bww', 'SeanMcElwee', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'ggreenwald', 'julia_azari', 'matthewstoller', 'peltzmadeline', 'vanillatary', 'willsommer')
+Most Typical Words: ['bolsonaro', 'bret', 'cabl', 'hanniti', 'hog', 'neonazi', 'que', 'retract', 'tucker', 'uma']
+Duplicate Count: 2
+
+Core Users: ('MichaelOberst', 'RandomlyWalking', 'ShalitUri', 'SirrahChan', '_asubbaswamy', 'alexdamour', 'audurand', 'chloepouprom', 'haldaume3', 'hannawallach', 'jennwvaughan', 'judywawira', 'karen_ec_levy', 'leeclemnet', 'mariadearteaga', 'negar_rz', 'rctatman', 'taltheturtle', 'umangsbhatt', 'yoavgo')
+Core Items: ('AINowInstitute', 'JFutoma', 'PariAIML', 'RandomlyWalking', 'aerinykim', 'aivillage_dc', 'angelamczhou', 'audurand', 'databoydg', 'david_sontag', 'edwardhkennedy', 'elanazeide', 'ermgrant', 'haldaume3', 'hannawallach', 'harvard_data', 'irenetrampoline', 'jennwvaughan', 'judyhshen', 'kdphd', 'kongaloosh', 'kswersk', 'leeclemnet', 'mariadearteaga', 'math_rachel', 'michaelrzhang', 'mikekimbackward', 'mmitchell_ai', 'mtesfald', 'negar_rz', 'packer_ben', 'realnamepolicy', 'suchisaria', 'yisongyue', 'zacharylipton')
+Most Typical Words: ['algorithm', 'basketballcraz', 'causal', 'dataset', 'decompos', 'embed', 'gumbelmax', 'mitzvad', 'nav', 'rl']
+Duplicate Count: 2
+
+Core Users: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'adversariel', 'aliceysu', 'amlankar95', 'geoffroeder', 'ghadfield', 'gokstudio', 'halhod', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'moyix', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('1vnzh', 'A_Aspuru_Guzik', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'aivillage_dc', 'aliceysu', 'amlankar95', 'catherineols', 'geoffroeder', 'gokstudio', 'halhod', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'moyix', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 2
+
+Core Users: ('DavidDuvenaud', 'EthanFetaya', 'JensBehrmann', 'Mo_Fad3l', 'Samake_A21', 'avicgoldfarb', 'dramemariama20', 'fhuszar', 'jake_snell', 'jessebett', 'jh_jacobsen', 'ltondji', 'lxuechen', 'panfordkobby', 'wgrathwohl')
+Core Items: ('DavidDuvenaud', 'EthanFetaya', 'JensBehrmann', 'Mo_Fad3l', 'ModeledBehavior', 'Samake_A21', 'amlankar95', 'dramemariama20', 'fhuszar', 'jake_snell', 'jessebett', 'jh_jacobsen', 'ltondji', 'lxuechen', 'm_sendhil', 'panfordkobby', 'suchisaria', 'wgrathwohl')
+Most Typical Words: ['anwendungen', 'awa', 'euch', 'für', 'industriellen', 'kobbi', 'mathematik', 'meldet', 'technomathematik', 'zentrum']
+Duplicate Count: 2
+
+Core Users: ('3r1nG', 'EgSophie', 'KT_So_It_Goes', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'RespectableLaw', 'SarahTaber_bww', 'SeanMcElwee', 'ashleyfeinberg', 'bruce_arthur', 'ggreenwald', 'julia_azari', 'matthewstoller', 'mkoplow', 'peltzmadeline', 'rabbijilljacobs', 'vanillatary', 'willsommer')
+Core Items: ('3r1nG', 'EgSophie', 'KT_So_It_Goes', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'RespectableLaw', 'SarahTaber_bww', 'SeanMcElwee', 'ashleyfeinberg', 'curaffairs', 'ggreenwald', 'jstreetdotorg', 'julia_azari', 'madbev14', 'matthewstoller', 'mkoplow', 'peltzmadeline', 'vanillatary', 'willsommer')
+Most Typical Words: ['bolsonaro', 'bret', 'cabl', 'hanniti', 'hog', 'neonazi', 'netanyahu', 'que', 'tucker', 'uma']
+Duplicate Count: 2
+
+Core Users: ('AINowInstitute', 'EvanSelinger', 'ShannonVallor', 'aerinykim', 'agstrait', 'aivillage_dc', 'alexdamour', 'angelamczhou', 'aselbst', 'catherineols', 'ceh0', 'elanazeide', 'ghadfield', 'j2bryson', 'j_asminewang', 'jennwvaughan', 'mark_riedl', 'math_rachel', 'mbogen', 'mmitchell_ai', 'packer_ben', 'rajiinio', 'yisongyue', 'zacharylipton', 'zittrain')
+Core Items: ('BrendaKLeong', 'FrankPasquale', 'Miles_Brundage', 'SirrahChan', 'SmithaMilli', 'TrooperSanders', '_asubbaswamy', 'alexstamos', 'chloepouprom', 'databoydg', 'elanazeide', 'hannawallach', 'j2bryson', 'jackclarkSF', 'judywawira', 'karen_ec_levy', 'kdphd', 'leah_boustan', 'negar_rz', 'realnamepolicy', 'tw_killian')
+Most Typical Words: ['algorithm', 'causal', 'constraint', 'dataset', 'identif', 'intersect', 'keynot', 'latent', 'ml', 'sexism']
+Duplicate Count: 2
+
+Core Users: ('A_Aspuru_Guzik', 'AidanNGomez', 'DavidDuvenaud', 'JensBehrmann', 'SingularMattrix', 'beenwrekt', 'carrasqu', 'geoffroeder', 'jake_snell', 'jessebett', 'jh_jacobsen', 'lxuechen', 'moyix', 'osageev', 'riakall', 'thesasho', 'wgrathwohl')
+Core Items: ('1vnzh', 'A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'DavidDuvenaud', 'DoctorVive', 'EthanFetaya', 'GeoffRockwell', 'GhorbaniAmirata', 'IanGormely', 'JensBehrmann', 'MarzyehGhassemi', 'SingularMattrix', 'SoloGen', 'TedOnPrivacy', '_galyo', 'amlankar95', 'avicgoldfarb', 'beenwrekt', 'carrasqu', 'coolboi95', 'david_sontag', 'dmorey', 'fhuszar', 'geoffroeder', 'gokstudio', 'hardmaru', 'jake_snell', 'jen_keesmaat', 'jessebett', 'jh_jacobsen', 'kswersk', 'lxuechen', 'm_sendhil', 'mchlglry', 'melosare', 'moyix', 'mtesfald', 'osageev', 'riakall', 'roydanroy', 'thesasho', 'vanillatary', 'wgrathwohl')
+Most Typical Words: ['anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'quantum', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 1
+
+Core Users: ('Aaroth', 'BrendanNyhan', 'GeoffreySupran', 'JohnHolbein1', 'ModeledBehavior', 'Susan_Athey', 'Undercoverhist', 'avicgoldfarb', 'causalinf', 'edwardhkennedy', 'gelliottmorris', 'jessesingal', 'johnmyleswhite', 'maria__cuellar', 'maya_sen', 'poverty_action')
+Core Items: ('Aaroth', 'BrendanNyhan', 'DoctorVive', 'JohnHolbein1', 'ModeledBehavior', 'Susan_Athey', 'Undercoverhist', 'avicgoldfarb', 'causalinf', 'edwardhkennedy', 'gelliottmorris', 'jessesingal', 'johnmyleswhite', 'maria__cuellar', 'maya_sen', 'poverty_action')
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'econ', 'economist', 'identif', 'intervent', 'phd', 'regress', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'GretchenAMcC', 'JensBehrmann', 'Samake_A21', 'SingularMattrix', 'Smerity', 'SmithaMilli', 'SussilloDavid', 'TedOnPrivacy', '_galyo', 'adversariel', 'aliceysu', 'amlankar95', 'beenwrekt', 'catherineols', 'david_sontag', 'dmorey', 'ermgrant', 'geoffroeder', 'gokstudio', 'hardmaru', 'j_asminewang', 'jake_snell', 'jessebett', 'jh_jacobsen', 'julius_adebayo', 'kswersk', 'lxuechen', 'mattschleg', 'michaelrzhang', 'mkoplow', 'moyix', 'nathanjurgenson', 'osageev', 'packer_ben', 'panfordkobby', 'randal_olson', 'rctatman', 'riakall', 'sdbioin', 'sina_lana', 'thesasho', 'tyrell_turing', 'umangsbhatt', 'wgrathwohl', 'william_lou', 'yoavgo')
+Core Items: ('AkiyoshiKitaoka', 'AmirRosenfeld', 'AndrewDBailey', 'EthanFetaya', 'IanGormely', 'JensBehrmann', 'SingularMattrix', 'SussilloDavid', 'beenwrekt', 'gokstudio', 'jessebett', 'jh_jacobsen', 'moyix', 'sina_lana', 'wgrathwohl')
+Most Typical Words: ['algorithm', 'anwendungen', 'awa', 'euch', 'industriellen', 'kobbi', 'mathematik', 'meldet', 'rl', 'zentrum']
+Duplicate Count: 1
+
+Core Users: ('Aaroth', 'BrendanNyhan', 'JohnHolbein1', 'MarzyehGhassemi', 'Susan_Athey', 'Undercoverhist', 'avicgoldfarb', 'carrasqu', 'edwardhkennedy', 'gelliottmorris', 'jessesingal', 'johnmyleswhite', 'maria__cuellar', 'maya_sen', 'osageev', 'poverty_action')
+Core Items: ('Aaroth', 'BrendanNyhan', 'JohnHolbein1', 'MarzyehGhassemi', 'ModeledBehavior', 'SolomonMg', 'Susan_Athey', 'carrasqu', 'causalinf', 'edwardhkennedy', 'gelliottmorris', 'maria__cuellar', 'maya_sen', 'osageev', 'poverty_action')
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'econ', 'identif', 'intervent', 'mimic', 'quantum', 'regress', 'tenur']
+Duplicate Count: 1
+
+Core Users: ('Aaroth', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'ShalitUri', '_asubbaswamy', 'angelamczhou', 'audurand', 'carrasqu', 'david_sontag', 'elanazeide', 'haldaume3', 'hima_lakkaraju', 'osageev', 'suchisaria')
+Core Items: ('AINowInstitute', 'EthanFetaya', 'GhorbaniAmirata', 'IanGormely', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'SarahJamieLewis', 'ShalitUri', 'SmithaMilli', 'SoloGen', 'Susan_Athey', 'Undercoverhist', '_asubbaswamy', 'alexdamour', 'benzevgreen', 'berty38', 'carrasqu', 'ceh0', 'david_sontag', 'edwardhkennedy', 'ermgrant', 'hannawallach', 'irenetrampoline', 'j2bryson', 'jake_snell', 'jennwvaughan', 'judyhshen', 'julius_adebayo', 'karen_ec_levy', 'kongaloosh', 'leeclemnet', 'm_sendhil', 'maria__cuellar', 'melosare', 'mikekimbackward', 'mtesfald', 'osageev', 'poverty_action', 'propublica', 'roydanroy', 'suchisaria', 'taltheturtle', 'thesasho', 'timoreilly', 'umangsbhatt', 'yisongyue')
+Most Typical Words: ['20pm', 'algorithm', 'causal', 'dataset', 'debug', 'decompos', 'gumbelmax', 'ml', 'quantum', 'rl']
+Duplicate Count: 1
+
+Core Users: ('AidanNGomez', 'AkiyoshiKitaoka', 'DavidDuvenaud', 'GeoffRockwell', 'GretchenAMcC', 'JensBehrmann', 'SingularMattrix', 'Smerity', 'SussilloDavid', '_galyo', 'beenwrekt', 'geoffroeder', 'gokstudio', 'hardmaru', 'jen_keesmaat', 'jessebett', 'jh_jacobsen', 'lxuechen', 'melosare', 'moyix', 'riakall', 'roydanroy', 'thesasho', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AidanNGomez', 'AmirRosenfeld', 'DavidDuvenaud', 'JensBehrmann', 'SingularMattrix', 'SussilloDavid', '_galyo', 'beenwrekt', 'geoffroeder', 'gokstudio', 'jessebett', 'jh_jacobsen', 'moyix', 'octonion', 'osageev', 'riakall', 'sina_lana', 'thesasho', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 1
+
+Core Users: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'SingularMattrix', 'SoloGen', 'TedOnPrivacy', 'adversariel', 'aivillage_dc', 'catherineols', 'geoffroeder', 'gokstudio', 'hardmaru', 'hima_lakkaraju', 'j_asminewang', 'jessebett', 'jh_jacobsen', 'julius_adebayo', 'mark_riedl', 'moyix', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('AkiyoshiKitaoka', 'AmirRosenfeld', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'SussilloDavid', 'geoffroeder', 'gokstudio', 'hima_lakkaraju', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'melosare', 'moyix', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 1
+
+Core Users: ('AINowInstitute', 'MichaelOberst', 'ShalitUri', 'alexdamour', 'angelamczhou', 'ceh0', 'irenetrampoline', 'jennwvaughan', 'kongaloosh', 'leeclemnet', 'leilanigilpin', 'm_sendhil', 'maria__cuellar', 'mmitchell_ai', 'yisongyue')
+Core Items: ('Aaroth', 'JFutoma', 'MarzyehGhassemi', 'MichaelOberst', 'RandomlyWalking', 'ShalitUri', 'Susan_Athey', 'TrooperSanders', 'Undercoverhist', '_asubbaswamy', 'aerinykim', 'alexdamour', 'angelamczhou', 'audurand', 'beenwrekt', 'berty38', 'ceh0', 'chloepouprom', 'david_sontag', 'edwardhkennedy', 'haldaume3', 'hannawallach', 'irenetrampoline', 'judywawira', 'julius_adebayo', 'karen_ec_levy', 'kdphd', 'kongaloosh', 'mariadearteaga', 'mtesfald', 'negar_rz', 'poverty_action', 'realnamepolicy', 'riakall', 'sdbioin', 'suchisaria', 'taltheturtle', 'umangsbhatt', 'yoavgo')
+Most Typical Words: ['20pm', 'algorithm', 'causal', 'confound', 'decompos', 'discriminatori', 'gumbelmax', 'keynot', 'mit', 'ml']
+Duplicate Count: 1
+
+Core Users: ('RandomlyWalking', 'ShannonVallor', '_asubbaswamy', 'alexdamour', 'audurand', 'carrasqu', 'ceh0', 'chloepouprom', 'databoydg', 'haldaume3', 'hannawallach', 'irenetrampoline', 'jennwvaughan', 'judywawira', 'karen_ec_levy', 'kdphd', 'kongaloosh', 'leeclemnet', 'mariadearteaga', 'mikekimbackward', 'mmitchell_ai', 'mtesfald', 'negar_rz', 'packer_ben', 'rajiinio', 'rctatman', 'taltheturtle', 'umangsbhatt', 'yisongyue', 'yoavgo', 'zacharylipton')
+Core Items: ('MarzyehGhassemi', 'RandomlyWalking', 'TrooperSanders', 'aerinykim', 'angelamczhou', 'audurand', 'chloepouprom', 'databoydg', 'elanazeide', 'haldaume3', 'hannawallach', 'jennwvaughan', 'kdphd', 'leeclemnet', 'mariadearteaga', 'math_rachel', 'mathbabedotorg', 'mmitchell_ai', 'mtesfald', 'negar_rz', 'rajiinio', 'realnamepolicy', 'suchisaria', 'yisongyue', 'yoavgo', 'zacharylipton')
+Most Typical Words: ['algorithm', 'basketballcraz', 'dataset', 'embed', 'keynot', 'mitzvad', 'ml', 'nav', 'quantum', 'rl']
+Duplicate Count: 1
+
+Core Users: ('BKCHarvard', 'BrendaKLeong', 'EvanSelinger', 'FrankPasquale', 'JuliaAngwin', 'ShannonVallor', 'WillOremus', 'agstrait', 'alexstamos', 'aselbst', 'ceh0', 'elizabeth_joh', 'j2bryson', 'jasonmillar', 'leeclemnet', 'leilanigilpin', 'math_rachel', 'mathbabedotorg', 'mbogen', 'megberetta', 'mikekimbackward', 'mmitchell_ai', 'ndiakopoulos', 'packer_ben', 'rajiinio', 'timoreilly', 'yisongyue', 'zacharylipton', 'zeynep', 'zittrain')
+Core Items: ('BrendaKLeong', 'ContraPoints', 'EvanSelinger', 'FrankPasquale', 'RandomlyWalking', 'ShannonVallor', 'SmithaMilli', 'TedOnPrivacy', 'TrooperSanders', 'agstrait', 'alexstamos', 'aprilaser', 'aselbst', 'chloepouprom', 'databoydg', 'elanazeide', 'j2bryson', 'jasonmillar', 'jefrankle', 'judywawira', 'kdphd', 'liannapisani', 'linamkhan', 'natematias', 'negar_rz', 'supergovernance', 'zittrain')
+Most Typical Words: ['algorithm', 'autonom', 'dataset', 'intervent', 'keynot', 'metric', 'mit', 'ml', 'sexism', 'subset']
+Duplicate Count: 1
+
+Core Users: ('3r1nG', 'EgSophie', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'RespectableLaw', 'SarahTaber_bww', 'SeanMcElwee', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'ggreenwald', 'matthewstoller', 'peltzmadeline', 'willsommer')
+Core Items: ('3r1nG', 'EgSophie', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'RespectableLaw', 'SeanMcElwee', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'ggreenwald', 'julia_azari', 'peltzmadeline', 'vanillatary', 'willsommer')
+Most Typical Words: ['bolsonaro', 'bret', 'cabl', 'hanniti', 'hog', 'neonazi', 'que', 'retract', 'tucker', 'uma']
+Duplicate Count: 1
+
+Core Users: ('1vnzh', 'A_Aspuru_Guzik', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DaraKaye', 'DavidDuvenaud', 'JensBehrmann', 'SingularMattrix', 'SussilloDavid', '_galyo', 'amlankar95', 'beenwrekt', 'geoffroeder', 'gokstudio', 'halhod', 'jessebett', 'jh_jacobsen', 'lxuechen', 'moyix', 'octonion', 'osageev', 'riakall', 'roydanroy', 'sina_lana', 'thesasho', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'GretchenAMcC', 'JensBehrmann', 'SingularMattrix', 'Smerity', 'SussilloDavid', '_galyo', 'aliceysu', 'beenwrekt', 'geoffroeder', 'gokstudio', 'hardmaru', 'jen_keesmaat', 'jessebett', 'jh_jacobsen', 'lxuechen', 'mattschleg', 'melosare', 'moyix', 'riakall', 'roydanroy', 'thesasho', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 1
+
+Core Users: ('EgSophie', 'KT_So_It_Goes', 'LisPower1', 'OsitaNwanevu', 'RespectableLaw', 'SarahTaber_bww', 'SeanMcElwee', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'ggreenwald', 'julia_azari', 'madbev14', 'peltzmadeline', 'vanillatary', 'willsommer')
+Core Items: ('3r1nG', 'EgSophie', 'KT_So_It_Goes', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'RespectableLaw', 'SarahTaber_bww', 'SeanMcElwee', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'julia_azari', 'madbev14', 'peltzmadeline', 'vanillatary', 'willsommer')
+Most Typical Words: ['bolsonaro', 'bret', 'discours', 'hog', 'neonazi', 'para', 'que', 'tfw', 'tucker', 'uma']
+Duplicate Count: 1
+
+Core Users: ('AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'GretchenAMcC', 'JensBehrmann', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'gokstudio', 'hardmaru', 'hima_lakkaraju', 'jessebett', 'jh_jacobsen', 'moyix', 'riakall', 'wgrathwohl')
+Core Items: ('AidanNGomez', 'AmirRosenfeld', 'DavidDuvenaud', 'JensBehrmann', 'SingularMattrix', '_galyo', 'amlankar95', 'beenwrekt', 'geoffroeder', 'gokstudio', 'jessebett', 'jh_jacobsen', 'julius_adebayo', 'melosare', 'osageev', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 1
+
+Core Users: ('Aaroth', 'IanGormely', 'MarzyehGhassemi', 'MichaelOberst', 'ModeledBehavior', 'SeanTrende', 'SmithaMilli', 'SoloGen', 'Susan_Athey', '_galyo', 'avicgoldfarb', 'beenwrekt', 'carrasqu', 'edwardhkennedy', 'jake_snell', 'johnmyleswhite', 'julius_adebayo', 'm_sendhil', 'maria__cuellar', 'maya_sen', 'melosare', 'mtesfald', 'nathanjurgenson', 'osageev', 'poverty_action', 'riakall', 'roydanroy', 'thesasho')
+Core Items: ('Aaroth', 'IanGormely', 'MarzyehGhassemi', 'Susan_Athey', '_galyo', 'avicgoldfarb', 'beenwrekt', 'carrasqu', 'edwardhkennedy', 'hima_lakkaraju', 'johnmyleswhite', 'm_sendhil', 'maria__cuellar', 'osageev', 'poverty_action', 'thesasho')
+Most Typical Words: ['20pm', 'algorithm', 'approxim', 'causal', 'decompos', 'gumbelmax', 'img', 'intervent', 'ml', 'quantum']
+Duplicate Count: 1
+
+Core Users: ('BrendanNyhan', 'EgSophie', 'KT_So_It_Goes', 'LisPower1', 'MattGertz', 'OsitaNwanevu', 'RespectableLaw', 'SarahTaber_bww', 'ashleyfeinberg', 'bruce_arthur', 'ggreenwald', 'madbev14', 'mkoplow', 'peltzmadeline', 'vanillatary')
+Core Items: ('AlecMacGillis', 'DoctorVive', 'EgSophie', 'KT_So_It_Goes', 'LisPower1', 'LorenRaeDeJ', 'MattGertz', 'MrDanielMax', 'SarahTaber_bww', 'SeanMcElwee', 'ashleyfeinberg', 'bruce_arthur', 'curaffairs', 'jessesingal', 'jstreetdotorg', 'julia_azari', 'madbev14', 'matthewstoller', 'peltzmadeline', 'tabletmag', 'vanillatary', 'willsommer')
+Most Typical Words: ['bolsonaro', 'bret', 'cabl', 'hanniti', 'hog', 'netanyahu', 'que', 'tfw', 'tucker', 'uma']
+Duplicate Count: 1
+
+Core Users: ('1vnzh', 'A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'aivillage_dc', 'amlankar95', 'catherineols', 'geoffroeder', 'gokstudio', 'halhod', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'Smerity', 'SussilloDavid', 'adversariel', 'aliceysu', 'amlankar95', 'geoffroeder', 'ghadfield', 'gokstudio', 'hardmaru', 'j_asminewang', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'korymath', 'mark_riedl', 'moyix', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 1
+
+Core Users: ('AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'JensBehrmann', 'Miles_Brundage', 'SingularMattrix', 'SussilloDavid', 'geoffroeder', 'gokstudio', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'melosare', 'moyix', 'wgrathwohl')
+Core Items: ('A_Aspuru_Guzik', 'AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'JensBehrmann', 'SingularMattrix', 'TedOnPrivacy', 'adversariel', 'aivillage_dc', 'catherineols', 'geoffroeder', 'ghadfield', 'gokstudio', 'hardmaru', 'hima_lakkaraju', 'j_asminewang', 'jessebett', 'jh_jacobsen', 'mark_riedl', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Most Typical Words: ['08th', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'romsoc', 'technomathematik', 'zentrum']
+Duplicate Count: 1
+
+Core Users: ('1vnzh', 'A_Aspuru_Guzik', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'GeoffRockwell', 'IanGormely', 'JensBehrmann', 'Miles_Brundage', 'Samake_A21', 'SingularMattrix', 'SussilloDavid', 'adversariel', 'amlankar95', 'coolboi95', 'fhuszar', 'hima_lakkaraju', 'jackclarkSF', 'jessebett', 'jh_jacobsen', 'moyix', 'randal_olson', 'riakall', 'sina_lana', 'tyrell_turing', 'wgrathwohl')
+Core Items: ('AidanNGomez', 'AkiyoshiKitaoka', 'AmirRosenfeld', 'DavidDuvenaud', 'DoctorVive', 'GeoffRockwell', 'JensBehrmann', 'Mo_Fad3l', 'Smerity', 'SoloGen', 'TedOnPrivacy', 'aivillage_dc', 'avicgoldfarb', 'geoffroeder', 'ghadfield', 'gokstudio', 'hardmaru', 'j_asminewang', 'jen_keesmaat', 'jessebett', 'jh_jacobsen', 'korymath', 'lxuechen', 'mark_riedl', 'melosare', 'wgrathwohl')
+Most Typical Words: ['anwendungen', 'awa', 'euch', 'für', 'industriellen', 'kobbi', 'mathematik', 'meldet', 'technomathematik', 'zentrum']
+Duplicate Count: 1
+
+Core Users: ('AidanNGomez', 'AkiyoshiKitaoka', 'AlecMacGillis', 'AmirRosenfeld', 'DavidDuvenaud', 'DoctorVive', 'GretchenAMcC', 'IanGormely', 'JFutoma', 'JensBehrmann', 'Miles_Brundage', 'NicolasPapernot', 'PariAIML', 'SirrahChan', 'Smerity', 'TedOnPrivacy', '_galyo', 'adversariel', 'aliceysu', 'amlankar95', 'avicgoldfarb', 'beenwrekt', 'berty38', 'david_sontag', 'dmorey', 'ermgrant', 'fhuszar', 'geoffroeder', 'ghadfield', 'gokstudio', 'hardmaru', 'jackclarkSF', 'jake_snell', 'jen_keesmaat', 'jessebett', 'jh_jacobsen', 'kswersk', 'lxuechen', 'm_sendhil', 'mchlglry', 'megberetta', 'melosare', 'moyix', 'ndiakopoulos', 'osageev', 'panfordkobby', 'randal_olson', 'roydanroy', 'tdietterich', 'theintercept', 'thesasho', 'timoreilly', 'vanillatary', 'wgrathwohl', 'yoavgo')
+Core Items: ('A_Aspuru_Guzik', 'AmirRosenfeld', 'DavidDuvenaud', 'EthanFetaya', 'JensBehrmann', 'SingularMattrix', 'aivillage_dc', 'beenwrekt', 'catherineols', 'halhod', 'j_asminewang', 'jh_jacobsen', 'mark_riedl', 'moyix', 'octonion', 'riakall', 'sina_lana', 'wgrathwohl')
+Most Typical Words: ['algorithm', 'anwendungen', 'euch', 'für', 'industriellen', 'mathematik', 'meldet', 'rl', 'technomathematik', 'zentrum']
+Duplicate Count: 1
+

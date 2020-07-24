@@ -1,0 +1,70 @@
+Core Users: ['JFutoma', 'MarzyehGhassemi', 'Smerity', 'geomblog', 'haldaume3', 'hardmaru', 'hima_lakkaraju', 'maya_sen', 'rajiinio', 'rctatman', 'sarahcolq', 'suchisaria', 'yoavgo']
+Core Items: ['api', 'character', 'dataset', 'faculti', 'ml', 'stakehold', 'tenur']
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'debug', 'matthi', 'mimic', 'mit', 'ml', 'rl', 'wein']
+Duplicate Count: 10
+
+Core Users: ['BrendaKLeong', 'KLdivergence', 'TrooperSanders', 'WillOremus', 'aselbst', 'benzevgreen', 'karen_ec_levy', 'math_rachel', 'mbogen', 'random_walker', 'wsisaac', 'zeynep']
+Core Items: ['algorithm', 'assess', 'browser', 'clickbait', 'dispar', 'recipi', 'surveil', 'tos']
+Most Typical Words: ['algorithm', 'assess', 'autonom', 'causal', 'dispar', 'intersect', 'intervent', 'keynot', 'pointer', 'surveil']
+Duplicate Count: 8
+
+Core Users: ['Aaroth', 'BrendaKLeong', 'FrankPasquale', 'NicolasPapernot', 'SarahJamieLewis', 'SolomonMg', 'TedOnPrivacy', 'WillOremus', 'karen_ec_levy', 'math_rachel', 'mikekimbackward', 'random_walker', 'thesasho', 'wsisaac', 'zeynep']
+Core Items: ['algorithm', 'differenti', 'metric', 'privaci', 'surveil']
+Most Typical Words: ['abbrevi', 'algorithm', 'differenti', 'keynot', 'metric', 'ml', 'privaci', 'quantum', 'subset', 'variabl']
+Duplicate Count: 5
+
+Core Users: ['JFutoma', 'MarzyehGhassemi', 'Smerity', 'geomblog', 'gokstudio', 'haldaume3', 'hardmaru', 'hima_lakkaraju', 'maya_sen', 'rctatman', 'sarahcolq', 'suchisaria', 'yoavgo']
+Core Items: ['api', 'dataset', 'faculti', 'ml', 'tenur']
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'debug', 'github', 'mimic', 'mit', 'ml', 'rl']
+Duplicate Count: 5
+
+Core Users: ['1vnzh', 'AmirRosenfeld', 'CausalKathy', 'DavidDuvenaud', 'JohnHolbein1', 'KLdivergence', 'LorenRaeDeJ', 'MichaelOberst', 'ShalitUri', 'SmithaMilli', 'StatModeling', 'Susan_Athey', 'alexdamour', 'angelamczhou', 'causalinf', 'david_sontag', 'edwardhkennedy', 'fhuszar', 'harvard_data', 'johnmyleswhite', 'judywawira', 'logangraham', 'maria__cuellar', 'mikekimbackward', 'packer_ben', 'poverty_action', 'riakall', 'suchisaria', 'tdietterich', 'thesasho', 'zittrain']
+Core Items: ['causal', 'confound', 'intervent', 'latent', 'variabl']
+Most Typical Words: ['20pm', 'algorithm', 'causal', 'confound', 'decompos', 'gumbelmax', 'identif', 'intervent', 'latent', 'variabl']
+Duplicate Count: 3
+
+Core Users: ['AINowInstitute', 'A_Aspuru_Guzik', 'Aaroth', 'BKCHarvard', 'BrendaKLeong', 'FrankPasquale', 'JohnHolbein1', 'KLdivergence', 'OsondeOsoba', 'RandomlyWalking', 'ShannonVallor', 'TedOnPrivacy', 'TingwuWang', 'TrooperSanders', 'WillOremus', 'YBenkler', '_galyo', 'adversariel', 'agstrait', 'angelamczhou', 'aselbst', 'beenwrekt', 'benzevgreen', 'berty38', 'blancamiller_', 'ceh0', 'databoydg', 'david_sontag', 'elanazeide', 'fermatslibrary', 'fhuszar', 'geomblog', 'grimmelm', 'haldaume3', 'hardmaru', 'harvard_data', 'irenetrampoline', 'jennwvaughan', 'judyhshen', 'judywawira', 'julia_azari', 'karen_ec_levy', 'katecrawford', 'kdphd', 'leah_boustan', 'logangraham', 'm_sendhil', 'maria__cuellar', 'mark_riedl', 'math_rachel', 'mathbabedotorg', 'mbogen', 'mikekimbackward', 'mmitchell_ai', 'natematias', 'nathanjurgenson', 'ndiakopoulos', 'octonion', 'osageev', 'packer_ben', 'rajiinio', 'random_walker', 'roydanroy', 's010n', 'sina_lana', 'supergovernance', 'tdietterich', 'team_markup', 'thesasho', 'timhwang', 'tyrell_turing', 'wsisaac', 'yisongyue', 'zacharylipton', 'zeynep', 'zittrain']
+Core Items: ['algorithm', 'assess', 'metric', 'selfdriv', 'tenur']
+Most Typical Words: ['algorithm', 'benchmark', 'causal', 'dataset', 'intervent', 'keynot', 'metric', 'mgmt', 'mit', 'ml']
+Duplicate Count: 2
+
+Core Users: ['A_Aspuru_Guzik', 'CausalKathy', 'JohnHolbein1', 'KLdivergence', 'LorenRaeDeJ', 'MichaelOberst', 'ShalitUri', 'SmithaMilli', 'StatModeling', 'Susan_Athey', 'SussilloDavid', 'alexdamour', 'angelamczhou', 'causalinf', 'cobyviner', 'david_sontag', 'edwardhkennedy', 'fhuszar', 'geomblog', 'harvard_data', 'johnmyleswhite', 'judywawira', 'logangraham', 'math_rachel', 'mikekimbackward', 'nathanjurgenson', 'packer_ben', 'poverty_action', 'riakall', 'suchisaria', 'tdietterich', 'zacharylipton', 'zittrain']
+Core Items: ['causal', 'confound', 'intervent', 'metric', 'postdoc']
+Most Typical Words: ['20pm', 'algorithm', 'causal', 'confound', 'decompos', 'gumbelmax', 'intervent', 'ml', 'postdoc', 'regress']
+Duplicate Count: 2
+
+Core Users: ['AINowInstitute', 'A_Aspuru_Guzik', 'Aaroth', 'AidanNGomez', 'BKCHarvard', 'BrendaKLeong', 'FrankPasquale', 'JFutoma', 'JohnHolbein1', 'KLdivergence', 'OsondeOsoba', 'RandomlyWalking', 'ShannonVallor', 'SirrahChan', 'SoloGen', 'TedOnPrivacy', 'TingwuWang', 'TrooperSanders', 'WillOremus', '_galyo', 'adversariel', 'agstrait', 'alexbeutel', 'angelamczhou', 'annakoop', 'aselbst', 'audurand', 'beenwrekt', 'benzevgreen', 'berty38', 'blancamiller_', 'ceh0', 'databoydg', 'david_sontag', 'elanazeide', 'ermgrant', 'fermatslibrary', 'fhuszar', 'geomblog', 'grimmelm', 'haldaume3', 'hardmaru', 'harvard_data', 'irenetrampoline', 'jackclarkSF', 'jennwvaughan', 'judyhshen', 'judywawira', 'julia_azari', 'karen_ec_levy', 'katecrawford', 'kdphd', 'leah_boustan', 'logangraham', 'm_sendhil', 'maria__cuellar', 'mark_riedl', 'math_rachel', 'mathbabedotorg', 'mattschleg', 'maya_sen', 'mbogen', 'michaelrzhang', 'mikekimbackward', 'mmitchell_ai', 'natematias', 'nathanjurgenson', 'ndiakopoulos', 'octonion', 'osageev', 'packer_ben', 'rajiinio', 'random_walker', 'roydanroy', 'rtqichen', 's010n', 'sina_lana', 'supergovernance', 'tdietterich', 'team_markup', 'thesasho', 'timhwang', 'tw_killian', 'tyrell_turing', 'variationalBAE', 'wsisaac', 'yisongyue', 'zacharylipton', 'zeynep', 'zittrain']
+Core Items: ['algorithm', 'metric', 'rl', 'selfdriv', 'tenur']
+Most Typical Words: ['algorithm', 'approxim', 'benchmark', 'causal', 'dataset', 'intervent', 'keynot', 'mgmt', 'ml', 'rl']
+Duplicate Count: 1
+
+Core Users: ['BrendaKLeong', 'EvanSelinger', 'FrankPasquale', 'JFutoma', 'JohnHolbein1', 'MarzyehGhassemi', 'NicolasPapernot', 'SarahJamieLewis', 'Smerity', 'SmithaMilli', 'SoloGen', 'WillOremus', 'adversariel', 'aivillage_dc', 'annakoop', 'aprilaser', 'berty38', 'blancamiller_', 'catherineols', 'david_sontag', 'elizabeth_joh', 'fhuszar', 'geomblog', 'gokstudio', 'haldaume3', 'halhod', 'hannawallach', 'hardmaru', 'hima_lakkaraju', 'irenetrampoline', 'julia_azari', 'julius_adebayo', 'karen_ec_levy', 'kongaloosh', 'kswersk', 'leeclemnet', 'logangraham', 'maria__cuellar', 'mark_riedl', 'math_rachel', 'maya_sen', 'mikekimbackward', 'mmitchell_ai', 'natematias', 'nathanjurgenson', 'rajiinio', 'random_walker', 'rctatman', 'riakall', 'roydanroy', 'sarahcolq', 'suchisaria', 'tdietterich', 'umangsbhatt', 'wsisaac', 'yisongyue', 'yoavgo', 'zacharylipton', 'zeynep']
+Core Items: ['faculti', 'metric', 'ml', 'surveil', 'tenur']
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'debug', 'intervent', 'isca', 'mit', 'ml', 'ranganathan', 'rl']
+Duplicate Count: 1
+
+Core Users: ['Aaroth', 'BrendaKLeong', 'EvanSelinger', 'FrankPasquale', 'NicolasPapernot', 'SarahJamieLewis', 'TedOnPrivacy', 'WillOremus', 'alexstamos', 'aprilaser', 'elizabeth_joh', 'grimmelm', 'halhod', 'karen_ec_levy', 'logangraham', 'math_rachel', 'mikarv', 'mikekimbackward', 'mmitchell_ai', 'nathanjurgenson', 'random_walker', 'wsisaac', 'zeynep']
+Core Items: ['biometr', 'metric', 'privaci', 'surveil', 'tos']
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'intervent', 'keynot', 'metric', 'ml', 'privaci', 'semant', 'surveil']
+Duplicate Count: 1
+
+Core Users: ['1vnzh', 'AmirRosenfeld', 'CausalKathy', 'DavidDuvenaud', 'JohnHolbein1', 'LorenRaeDeJ', 'MichaelOberst', 'ShalitUri', 'SmithaMilli', 'StatModeling', 'Susan_Athey', 'alexdamour', 'angelamczhou', 'causalinf', 'david_sontag', 'edwardhkennedy', 'fhuszar', 'geomblog', 'harvard_data', 'johnmyleswhite', 'judywawira', 'julia_azari', 'logangraham', 'maria__cuellar', 'maya_sen', 'packer_ben', 'poverty_action', 'riakall', 'suchisaria', 'tdietterich', 'zacharylipton', 'zittrain']
+Core Items: ['causal', 'confound', 'identif', 'intervent', 'latent', 'tenur']
+Most Typical Words: ['20pm', 'algorithm', 'causal', 'confound', 'decompos', 'gumbelmax', 'identif', 'intervent', 'latent', 'ml']
+Duplicate Count: 1
+
+Core Users: ['Aaroth', 'JFutoma', 'MarzyehGhassemi', 'Smerity', 'TedOnPrivacy', 'adversariel', 'berty38', 'blancamiller_', 'david_sontag', 'fhuszar', 'geomblog', 'gokstudio', 'haldaume3', 'hardmaru', 'irenetrampoline', 'jennwvaughan', 'kdphd', 'logangraham', 'maria__cuellar', 'mark_riedl', 'math_rachel', 'mikekimbackward', 'mmitchell_ai', 'packer_ben', 'rajiinio', 'rctatman', 'roydanroy', 'suchisaria', 'tdietterich', 'yisongyue', 'yoavgo', 'zacharylipton']
+Core Items: ['algorithm', 'character', 'dataset', 'metric', 'ml', 'tenur']
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'keynot', 'metric', 'mit', 'ml', 'rl', 'subset', 'tenur']
+Duplicate Count: 1
+
+Core Users: ['JFutoma', 'MarzyehGhassemi', 'Smerity', 'gokstudio', 'hardmaru', 'jennwvaughan', 'rajiinio', 'rctatman', 'suchisaria', 'yoavgo']
+Core Items: ['character', 'dataset', 'intersect', 'ml', 'sepsi']
+Most Typical Words: ['algorithm', 'causal', 'dataset', 'hejab', 'keynot', 'matthi', 'mimic', 'ml', 'rl', 'wein']
+Duplicate Count: 1
+
+Core Users: ['AnnaJaneSmith4', 'NBA_Math', 'ZachLowe_NBA', 'bruce_arthur', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'taltheturtle', 'william_lou', 'wtevs']
+Core Items: ['gianni', 'jv', 'kyle', 'raptor', 'serg']
+Most Typical Words: ['basketballcraz', 'gianni', 'hockey', 'mitzvad', 'nav', 'raptor', 'rebound', 'serg', 'superfan', 'tal']
+Duplicate Count: 1
+

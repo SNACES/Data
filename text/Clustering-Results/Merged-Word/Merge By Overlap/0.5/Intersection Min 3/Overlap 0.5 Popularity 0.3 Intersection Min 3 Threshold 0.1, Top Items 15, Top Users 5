@@ -1,0 +1,25 @@
+Core Users: ['SussilloDavid', 'haldaume3', 'rctatman', 'roydanroy', 'zacharylipton']
+Core Items: ['abbrevi', 'admiss', 'altogeth', 'api', 'binari', 'bw', 'categor', 'character', 'cluster', 'coauthor', 'compress', 'conceptu', 'confound', 'contextu', 'cpu', 'data', 'dataset', 'deriv', 'discours', 'embed', 'ensembl', 'exponenti', 'faculti', 'fellowship', 'fraction', 'github', 'hah', 'linear', 'linguist', 'lotteri', 'mathemat', 'mathematician', 'maxim', 'ml', 'moreov', 'neuron', 'neurosci', 'nevertheless', 'nip', 'nlp', 'overlap', 'overst', 'phd', 'pointer', 'preprint', 'python', 'recipi', 'semant', 'stakehold', 'subset', 'supervis', 'tenur', 'varianc', 'vector']
+Most Typical Words: ['algorithm', 'dataset', 'deriv', 'embed', 'gustav', 'ml', 'neurosci', 'pacif', 'postdoc', 'preprint']
+Duplicate Count: 35
+
+Core Users: ['AnnaJaneSmith4', 'dhackett1565', 'ekoreen', 'joey_doubleyou', 'william_lou']
+Core Items: ['foul', 'fred', 'gianni', 'isaac', 'jv', 'livingston', 'norm', 'pascal', 'playoff', 'raptor', 'rebound', 'rotat', 'serg', 'steph', 'turnov']
+Most Typical Words: ['foul', 'gianni', 'jv', 'kyle', 'pascal', 'pod', 'raptor', 'rebound', 'serg', 'steph']
+Duplicate Count: 17
+
+Core Users: ['FrankPasquale', 'WillOremus', 'alexstamos', 'math_rachel', 'random_walker']
+Core Items: ['algorithm', 'amplifi', 'analytica', 'api', 'attribut', 'blacklist', 'browser', 'disinform', 'gmail', 'metric', 'misus', 'privaci', 'silicon', 'surveil', 'tos']
+Most Typical Words: ['algorithm', 'amplifi', 'browser', 'embed', 'infosec', 'keynot', 'metric', 'privaci', 'surveil', 'tracker']
+Duplicate Count: 15
+
+Core Users: ['OsitaNwanevu', 'Yair_Rosenberg', 'mkoplow', 'rabbijilljacobs', 'tabletmag']
+Core Items: ['backfir', 'backlash', 'discours', 'entireti', 'gaza', 'hebrew', 'influenti', 'isra', 'jerusalem', 'jew', 'jill', 'netanyahu', 'partisan', 'promin', 'reconcili', 'shabbat', 'straightforward']
+Most Typical Words: ['aipac', 'antisemit', 'isra', 'jew', 'jewish', 'netanyahu', 'shabbat', 'unorthodox', 'zionism', 'zionist']
+Duplicate Count: 13
+
+Core Users: ['ModeledBehavior', 'Undercoverhist', 'bencasselman', 'julia_azari', 'leah_boustan']
+Core Items: ['1970s', 'aggreg', 'assumpt', 'broader', 'bw', 'capita', 'clarifi', 'coauthor', 'condo', 'consensus', 'data', 'dudley', 'econ', 'economist', 'emphas', 'fulltim', 'gabriel', 'grad', 'grandfath', 'hierarchi', 'identif', 'influenti', 'jerusalem', 'juan', 'mathemat', 'medicaid', 'migrat', 'milwauke', 'neoliber', 'oct', 'output', 'oxford', 'preval', 'shabbat', 'shutdown', 'skeptic', 'slack', 'substant', 'subtweet', 'suburb', 'tenur', 'tfw', 'unknow', 'unrestrict', 'volatil']
+Most Typical Words: ['bw', 'coauthor', 'econ', 'economist', 'friedman', 'fryer', 'macro', 'samuelson', 'tenur', 'volatil']
+Duplicate Count: 1
+
